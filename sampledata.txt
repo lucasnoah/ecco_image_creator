@@ -1,0 +1,900 @@
+00000f68-b486-11e7-be75-b6ce560b292a	(66, 1092, 811, 1133)	0450800501	3315908186	bad
+361e62ea-ad09-11e7-92c9-6658d2e7a10d	(168, 1719, 944, 1752)	0110102500	3310592462	bad
+000010c8-c98d-11e7-8664-0ad2516613d6	(37, 1062, 1202, 1117)	0374400102	3312588742	bad
+000011c8-c9a5-11e7-9808-0a8caf7809d4	(46, 561, 998, 601)	0436600600	3312435158	bad
+36223854-ca85-11e7-b241-0a1780af9650	(947, 2259, 1701, 2305)	0608300203	3314910834	bad
+361a7fb2-b471-11e7-b06e-121737acbca9	(59, 1168, 865, 1201)	0430401300	3312406025	bad
+3625edc8-ca85-11e7-b241-0a1780af9650	(177, 2112, 932, 2154)	0608300203	3314910838	bad
+3631385a-ad92-11e7-a1fd-ba9d9623cb95	(66, 1065, 856, 1116)	0263400900	3312070850	bad
+361e6852-bdae-11e7-bb1f-0a9e45c799ec	(296, 1038, 1066, 1088)	0191400200	3312491080	bad
+00001332-b50d-11e7-ab93-42de12ea68a8	(492, 1679, 1386, 1719)	0635900104	3313714933	bad
+363139bc-ca85-11e7-b241-0a1780af9650	(176, 494, 1724, 561)	0608300203	3314910850	bad
+361e6892-bde6-11e7-bb1f-0a9e45c799ec	(16, 2669, 1000, 2731)	0243600100	3311633956	bad
+36313a06-b56e-11e7-8967-36f452166d2e	(343, 285, 1665, 349)	0814300400	3315316159	bad
+36313a78-ad09-11e7-92c9-6658d2e7a10d	(30, 518, 842, 565)	0110102500	3310592477	bad
+361e69e8-ad09-11e7-92c9-6658d2e7a10d	(223, 1751, 955, 1806)	0110102500	3310592462	bad
+36313aee-b436-11e7-bd42-7afe6d3a1c6a	(133, 593, 963, 636)	0376300500	3311991661	bad
+3629adfc-b552-11e7-9260-86ae7ac82394	(115, 210, 951, 245)	0793800402	3314411651	bad
+00001604-b623-11e7-9728-7267471f938d	(149, 657, 947, 703)	1140301500	3316587792	bad
+36313b90-ad81-11e7-9a23-4affa0f6fd55	(98, 1211, 695, 1248)	0229000108	3311448488	bad
+361a8196-bde6-11e7-bb1f-0a9e45c799ec	(1107, 2129, 2155, 2173)	0243600100	3311633954	bad
+3625ef60-ad09-11e7-92c9-6658d2e7a10d	(47, 682, 837, 729)	0110102500	3310592469	bad
+361e6a1c-be0a-11e7-bb1f-0a9e45c799ec	(90, 412, 1049, 446)	0296700102	3314881540	bad
+36223bee-ace7-11e7-8fc8-6ac4a15efaf1	(143, 1170, 947, 1198)	0088500303	3310167744	bad
+3629b09a-bdc2-11e7-bb1f-0a9e45c799ec	(566, 929, 1027, 960)	0212400601	3311132702	bad
+00001648-adb5-11e7-a643-5a3dc6a511a7	(33, 1416, 848, 1456)	0304600200	3311397096	bad
+361a819a-ca85-11e7-b241-0a1780af9650	(183, 1648, 952, 1683)	0608300203	3314910828	bad
+36223c0a-ca85-11e7-b241-0a1780af9650	(947, 2299, 1698, 2342)	0608300203	3314910834	bad
+362d6746-b56e-11e7-8967-36f452166d2e	(118, 927, 1155, 987)	0814300400	3315316156	bad
+36223ca8-ad09-11e7-92c9-6658d2e7a10d	(143, 1378, 938, 1429)	0110102500	3310592466	bad
+361e6b36-ace7-11e7-8fc8-6ac4a15efaf1	(210, 1041, 959, 1071)	0088500303	3310167742	bad
+362d67d6-ad81-11e7-9a23-4affa0f6fd55	(64, 113, 657, 164)	0229000108	3311448486	bad
+36313cba-ad92-11e7-a1fd-ba9d9623cb95	(143, 1112, 857, 1163)	0263400900	3312070850	bad
+362d67f6-ca85-11e7-b241-0a1780af9650	(226, 613, 1723, 691)	0608300203	3314910846	bad
+361e6c52-ad3d-11e7-989e-561593fd185e	(241, 841, 868, 878)	0150300101	3315489191	bad
+36313d02-c8b6-11e7-9387-46407aefa844	(148, 1061, 1192, 1115)	0911800900	3315149770	bad
+36313d08-b4c4-11e7-83e2-52e56525f034	(230, 489, 1004, 527)	0561902402	3313263262	bad
+3629b282-ca85-11e7-b241-0a1780af9650	(164, 1790, 916, 1832)	0608300203	3314910842	bad
+0000188c-bda5-11e7-bb1f-0a9e45c799ec	(170, 797, 1093, 833)	0176500200	3312484277	bad
+36223eaa-b48a-11e7-9efc-faf8399e7d72	(89, 250, 701, 293)	0475500300	3313875082	bad
+3625f1e6-b56e-11e7-8967-36f452166d2e	(209, 1056, 1361, 1117)	0814300400	3315316152	bad
+00001900-b683-11e7-9eae-766ec2bf3134	(48, 1394, 1610, 1442)	0983300600	3315464755	bad
+361e6e86-ca85-11e7-b241-0a1780af9650	(805, 701, 2028, 762)	0608300203	3314910831	bad
+00001948-c9a5-11e7-9808-0a8caf7809d4	(45, 601, 1042, 643)	0436600600	3312435158	bad
+3629b300-ad92-11e7-a1fd-ba9d9623cb95	(82, 733, 870, 781)	0263400900	3312070842	bad
+362240ac-b472-11e7-a11f-a2150c8c35e5	(177, 1035, 1036, 1078)	0433600700	3312421876	bad
+362240b8-bde9-11e7-bb1f-0a9e45c799ec	(586, 289, 1063, 357)	0239200302	3310906506	bad
+361e6fec-ad09-11e7-92c9-6658d2e7a10d	(30, 136, 821, 184)	0110102500	3310592463	bad
+3625f282-ca85-11e7-b241-0a1780af9650	(176, 2149, 931, 2196)	0608300203	3314910838	bad
+361a839a-b5b1-11e7-a128-22fc83a9b1b2	(115, 1399, 1326, 1437)	0877700600	3314823874	bad
+36313ee2-ad09-11e7-92c9-6658d2e7a10d	(30, 561, 841, 602)	0110102500	3310592477	bad
+3629aab4-b47b-11e7-95ad-3a1be62faecf	(160, 860, 931, 915)	0458301601	3312721780	good
+3629ab7c-b42b-11e7-8d1f-b29a38101c74	(52, 327, 777, 377)	0374100202	3312192385	good
+3629abfc-c819-11e7-85ea-2e90a3b9f2ba	(42, 1228, 605, 1262)	0346200702	3311754069	good
+3629ac54-ad81-11e7-9b13-2673407a3283	(227, 290, 1147, 342)	0237600900	3311620376	good
+3629acf6-adac-11e7-b26b-8630cca797eb	(197, 1813, 1685, 1858)	0296002200	3311338302	good
+3629ad4e-b52e-11e7-9bc4-8a0b68863718	(34, 274, 1047, 326)	0741200200	3314135799	good
+3629ae14-adbf-11e7-a4b3-c2f3eb5dfe3b	(103, 866, 960, 909)	0314900301	3311685985	good
+3629aeb2-b541-11e7-bec1-624a3ce779b6	(56, 1532, 1039, 1579)	0731001200	3314106874	good
+3629aec0-ad18-11e7-b41e-6658d2e7a10d	(199, 978, 1218, 1030)	0118800800	3310482287	good
+3629aef0-c971-11e7-af90-0ad2516613d6	(225, 286, 940, 320)	0258200600	3310988139	good
+00000046-aca1-11e7-b218-32ad471134e2	(81, 1108, 948, 1160)	0017000101	3309255285	good
+3629af04-b472-11e7-a7c6-be6f9b87b481	(107, 224, 943, 270)	0433500402	3312809775	good
+000000f0-b5c0-11e7-8619-a2731ac939f3	(162, 353, 919, 393)	0881300105	3315720333	good
+3629af68-b472-11e7-bda8-c61d726de6ba	(95, 1027, 942, 1077)	0433700302	3312810615	good
+3629afaa-b499-11e7-bddc-b66250f1591c	(17, 1054, 547, 1091)	0500100300	3312963158	good
+0000017e-b43d-11e7-bf8a-6e2a8cee1950	(69, 1208, 751, 1251)	0404603200	3312301372	good
+3629b008-b599-11e7-92d2-5ac0dbdb634b	(159, 982, 975, 1021)	0864700101	3315933425	good
+3629b010-ada3-11e7-b713-f6f752d716ac	(55, 1151, 774, 1198)	0282201200	3311284633	good
+000002ce-acd0-11e7-8584-ba320057d2a2	(68, 643, 924, 689)	0050100101	3309723202	good
+000002da-acbf-11e7-b054-36c3442de448	(83, 655, 977, 710)	0032900200	3309961491	good
+00000364-b4a0-11e7-99ec-1228faa3f45b	(75, 520, 804, 565)	0482100502	3312892237	good
+0000038c-b54a-11e7-be27-8a2110004707	(296, 526, 1795, 593)	0783200600	3314258841	good
+03313776-b43f-11e7-be04-0ef578ba7a0b	(91, 1585, 827, 1623)	0387700800	3312134134	good
+032a2462-ada6-11e7-986b-7af974c161df	(153, 259, 1018, 310)	0259400700	3311163509	good
+00000398-c984-11e7-b679-0aa0c17a5110	(161, 444, 1081, 492)	0272600704	3311671646	good
+033137f4-b524-11e7-9137-624a3ce779b6	(13, 1031, 702, 1087)	0670802400	3313802622	good
+032a2468-b5d4-11e7-981c-f27513ff0b63	(265, 1156, 1251, 1200)	0916800202	3315342898	good
+3629b562-b436-11e7-b535-9216d208dead	(113, 1114, 889, 1149)	0376000501	3311893690	good
+3629b49a-b436-11e7-bd42-7afe6d3a1c6a	(51, 605, 894, 654)	0376300500	3311991658	good
+3629b0d0-b436-11e7-b6bc-a2585f52ac4f	(169, 299, 989, 337)	0370900703	3311887129	good
+3629b112-b42b-11e7-8d1f-b29a38101c74	(54, 368, 775, 414)	0374100202	3312192385	good
+3629bb4e-b42b-11e7-8d1f-b29a38101c74	(53, 453, 775, 501)	0374100202	3312192385	good
+3629bab4-b439-11e7-8ae0-f256a3a05c21	(123, 560, 891, 607)	0376900201	3312002028	good
+3629b986-b454-11e7-bea7-0efad8f5f051	(100, 215, 898, 264)	0401500202	3312288024	good
+03313818-ad44-11e7-bd24-5af489ede444	(330, 1129, 927, 1171)	0154601100	3310263912	good
+3629ba5e-b47b-11e7-95ad-3a1be62faecf	(160, 1076, 928, 1128)	0458301601	3312721780	good
+3629bb10-b48c-11e7-aa19-0efad8f5f051	(45, 963, 869, 1008)	0457400108	3312713112	good
+032a2542-b509-11e7-90be-42de12ea68a8	(33, 1998, 691, 2054)	0664001200	3313774546	good
+0331381e-adc5-11e7-90f3-3676c7a77d29	(42, 194, 697, 238)	0303001501	3312172340	good
+3629b4e6-b499-11e7-8c50-1228faa3f45b	(264, 1398, 1024, 1457)	0500100400	3313674528	good
+3629b720-b499-11e7-bddc-b66250f1591c	(15, 1107, 749, 1151)	0500100300	3312963158	good
+032a7c50-b4b8-11e7-b230-220a88ddb868	(202, 1165, 1036, 1221)	0524100104	3313125734	good
+032a254e-ad32-11e7-855a-1222bd8dde5b	(315, 1849, 1143, 1981)	0146600600	3310429045	good
+3629b748-b4f3-11e7-9fca-c6f7100f8ce5	(39, 173, 838, 228)	0593900600	3313450499	good
+000004ca-b50b-11e7-8554-c61263f67729	(38, 531, 746, 572)	0653100502	3313735568	good
+03313970-be2f-11e7-bb1f-0a9e45c799ec	(86, 921, 757, 967)	0341400300	3312577876	good
+3629b2ce-b517-11e7-9acd-aa5314733147	(170, 603, 1953, 662)	0695400100	3314015087	good
+3629b9dc-b51b-11e7-99e1-5e71f0b54a1b	(56, 414, 643, 452)	0660300300	3313766720	good
+3629ba64-b52e-11e7-9bc4-8a0b68863718	(31, 446, 1043, 496)	0741200200	3314135799	good
+032a2592-c97c-11e7-b679-0aa0c17a5110	(991, 461, 1793, 503)	0314100100	3311474750	good
+3625edc8-ca85-11e7-b241-0a1780af9650	(177, 2112, 932, 2154)	0608300203	3314910838	bad	 quam autem nemo est, qui se dicat in hac
+3625ef60-ad09-11e7-92c9-6658d2e7a10d	(47, 682, 837, 729)	0110102500	3310592469	bad	 paucts : nan omrnino har . placet. Scd tanmen hac
+3625f1e6-b56e-11e7-8967-36f452166d2e	(209, 1056, 1361, 1117)	0814300400	3315316152	bad	 No: leviamoci a un tratto: fuor tragghiamo
+3625f282-ca85-11e7-b241-0a1780af9650	(176, 2149, 931, 2196)	0608300203	3314910838	bad	 ciuitate vnquam de quoquam audiuiffe, qui
+3625f28c-be0a-11e7-bb1f-0a9e45c799ec	(449, 1979, 910, 2015)	0296700102	3314881541	bad	 pi. m. In quibus dierum ominum ratio expoa-
+3625f3de-ad18-11e7-b41e-6658d2e7a10d	(68, 1534, 1171, 1588)	0118800800	3310482284	bad	 Rev. and Hionble. Mr Allen Bathurst,. Fellow of Aew College
+3625f53c-ad09-11e7-92c9-6658d2e7a10d	(59, 729, 839, 780)	0110102500	3310592469	bad	 'Ct mna fenien ia, quam vidcbar cxpoCuifsc; Ego
+3625f5ca-ca85-11e7-b241-0a1780af9650	(178, 2189, 932, 2232)	0608300203	3314910838	bad	 tale facinus ausus fuerit ac perpetrarit. iste
+3625f68e-ad3d-11e7-989e-561593fd185e	(239, 1077, 867, 1126)	0150300101	3315489193	bad	 mri apniuli, DoEtrinam facile agnorca: judicii fubtilia.
+3625f7dc-be0a-11e7-bb1f-0a9e45c799ec	(450, 2007, 909, 2040)	0296700102	3314881541	bad	 nitur verim cam die fajki pluresfint nefaiis,
+3625f812-b56e-11e7-9fc6-8a2110004707	(162, 1481, 1130, 1601)	0834900400	3314534005	bad	 O.dyjjey: Die mihi, Mufa, virum, capta: post tempora Troja,
+3625f93c-b5cf-11e7-858a-6e34a9d11379	(106, 1268, 859, 1309)	0912700300	3315160453	bad	 ao what fblly eJicems, and the vulgar admite;
+3625f980-ca85-11e7-b241-0a1780af9650	(176, 2229, 929, 2269)	0608300203	3314910838	bad	 tamen hoc non contentus, ctiam chori mei
+3625fa1e-ad09-11e7-92c9-6658d2e7a10d	(52, 776, 841, 829)	0110102500	3310592469	bad	 ilta Itudia non improbo, moderata modo fint: opi-
+3625fc6e-be0a-11e7-bb1f-0a9e45c799ec	(449, 2033, 909, 2068)	0296700102	3314881541	bad	 hinc appellab. I potiori parte, Fali.. Calendarn,
+3625ff00-ad09-11e7-92c9-6658d2e7a10d	(51, 824, 841, 875)	0110102500	3310592469	bad	 nionem iftorm ftudiorumm, & fnfpicioncm artificii
+3625ff84-ca85-11e7-b241-0a1780af9650	(174, 1725, 1726, 2354)	0608300203	3314910838	bad	 nisi Telephanes tibicen, fingulari probitate, mihi tur optime consultum voluiffet, frau-
+362601f4-b56e-11e7-9fc6-8a2110004707	(228, 1596, 1064, 1638)	0834900400	3314534005	bad	 Qui mores Hominum Multorum vidit & Urbes.
+362602b0-bdae-11e7-bb1f-0a9e45c799ec	(430, 151, 1102, 2149)	0191400200	3312491083	bad	 mnat des gages des dmejl'iqe. dn roi, de la folde de, orm j,
+362602ca-ad09-11e7-92c9-6658d2e7a10d	(52, 870, 840, 920)	0110102500	3310592469	bad	 apud cos, qui re' iudicc!lt, oratori advcriariam efte
+00000f68-b486-11e7-be75-b6ce560b292a	(66, 1092, 811, 1133)	0450800501	3315908186	bad	 Hunc.tamen indignum numero coetuque piorum.
+000010c8-c98d-11e7-8664-0ad2516613d6	(37, 1062, 1202, 1117)	0374400102	3312588742	bad	 h. a're Priince Metizi;, aid' the' iutchiefs of Mira'ndo/a -- He backed -his
+000011c8-c9a5-11e7-9808-0a8caf7809d4	(46, 561, 998, 601)	0436600600	3312435158	bad	 tenti a me defuit, quod effet aut ab amico, aut . gratiofo, aut a
+00001332-b50d-11e7-ab93-42de12ea68a8	(492, 1679, 1386, 1719)	0635900104	3313714933	bad	 lato ha fpade, e graffi, e picche, e accette.
+00001604-b623-11e7-9728-7267471f938d	(149, 657, 947, 703)	1140301500	3316587792	bad	 N rS~,dom tnir City: 2,,, r'cng Vnari Maid,
+00001648-adb5-11e7-a643-5a3dc6a511a7	(33, 1416, 848, 1456)	0304600200	3311397096	bad	 defunt exempla quorum non- Vide senecam Herc. Fur. vf
+0000188c-bda5-11e7-bb1f-0a9e45c799ec	(170, 797, 1093, 833)	0176500200	3312484277	bad	 Tl11, or power to d fiometiling natural cr difpolition, fevcrity, unmercifulncfi, flrp.
+00001900-b683-11e7-9eae-766ec2bf3134	(48, 1394, 1610, 1442)	0983300600	3315464755	bad	 liuliicnc of your fame, no frnall nourilnm.ent and (upport ; your l.iurcs will, (contrary to
+00001948-c9a5-11e7-9808-0a8caf7809d4	(45, 601, 1042, 643)	0436600600	3312435158	bad	 confule poftulandum ; abiit illud tempus: mutata ratio est: sic 25
+00001bf6-b4a0-11e7-81aa-ca0c869fe52d	(71, 1264, 933, 1314)	0534400102	3313159965	bad	 l' lacrity and good sense, with \hich file perform-
+00001c0c-b43f-11e7-80f4-821bc098331d	(92, 1146, 512, 1171)	0381300402	3312200759	bad	 Pa.ndit defctli hli. fr,'t tctria v'ris.
+000040a0-adb5-11e7-a643-5a3dc6a511a7	(75, 1523, 856, 1557)	0304600200	3311397096	bad	 roqci meo veni f!rplex tibi, iiil ut le comnmodis fuis cogi-
+0000412a-c9a5-11e7-9808-0a8caf7809d4	(48, 886, 1001, 927)	0436600600	3312435158	bad	 tiam alieniflimos defendamus. Mihi autem cum Murena, Ju-
+000042da-b486-11e7-9563-e66f85527e41	(89, 1234, 868, 1319)	0485100600	3312926627	bad	 patris.) � COGNITOR. . Cognitor properly signifies one
+00004404-b46a-11e7-8ab0-7e6134dda259	(40, 932, 962, 990)	0424901900	3312626553	bad	 ' O'ermatch'd in Pow'r at last, I'm forc'd to yield,
+000044c4-ca3e-11e7-ac21-0a1780af9650	(633, 793, 1167, 846)	0484300601	3312910339	bad	 cerificrs. CERISE. .f. iar. Cer.lfr-t. angl. cherry. Petit
+00004648-c9a5-11e7-9808-0a8caf7809d4	(49, 928, 1002, 971)	0436600600	3312435158	bad	 dices, & vetus, & magna amicitia est, quae in capitis dimicatione
+0000481c-b683-11e7-9eae-766ec2bf3134	(35, 1605, 1602, 1651)	0983300600	3315464755	bad	 he fecn in cromn9o;ny with youlr's by !artc pIoiilt ' ; your's, my Lord, carn die bult with
+000049ac-b43f-11e7-80f4-821bc098331d	(67, 1252, 633, 1281)	0381300402	3312200759	bad	 Andill'fite aliiuenm, tergo qui l ftfulik obcrn ?
+3631385a-ad92-11e7-a1fd-ba9d9623cb95	(66, 1065, 856, 1116)	0263400900	3312070850	bad	 Fit Senatus coljfltum, ltt Vedilus, qudd con7effits
+363139bc-ca85-11e7-b241-0a1780af9650	(176, 494, 1724, 561)	0608300203	3314910850	bad	 XcCa7cAvwo T$�, TEc werrENxoOI Wseiv'/ S. S6 OYp Satr TOVTO0 OTn
+36313a06-b56e-11e7-8967-36f452166d2e	(343, 285, 1665, 349)	0814300400	3315316159	bad	 Tbe Streigbts to .wbich yoa're drvu'n ; and as be kaow's
+36313a78-ad09-11e7-92c9-6658d2e7a10d	(30, 518, 842, 565)	0110102500	3310592477	bad	 rvbori:m comltas: si quiid pC:U;quare acritus, ut
+36313aee-b436-11e7-bd42-7afe6d3a1c6a	(133, 593, 963, 636)	0376300500	3311991661	bad	 N'ont jamais, de quelque air queje m'y fois ps prendre,
+36313b90-ad81-11e7-9a23-4affa0f6fd55	(98, 1211, 695, 1248)	0229000108	3311448488	bad	 leur donna ; &e s'ils �toient Philofophes, qu'il le
+36313cba-ad92-11e7-a1fd-ba9d9623cb95	(143, 1112, 857, 1163)	0263400900	3312070850	bad	 /j/it fe cumn telo fiije, in vincila col2iceere-
+36313d02-c8b6-11e7-9387-46407aefa844	(148, 1061, 1192, 1115)	0911800900	3315149770	bad	 tcha. Fakadychm jyhuyn bassamaj yndalach-
+36313d08-b4c4-11e7-83e2-52e56525f034	(230, 489, 1004, 527)	0561902402	3313263262	bad	 srl etling-rom, fo'...../-e, ,.i .,',, a 'i h tjftflcon of
+36313ee2-ad09-11e7-92c9-6658d2e7a10d	(30, 561, 841, 602)	0110102500	3310592477	bad	 invitus & co.:LOus f'.cc:c vi(d'.uC. Faciliatis, li-
+36313f70-ca85-11e7-b241-0a1780af9650	(176, 559, 1695, 633)	0608300203	3314910850	bad	 TwE5 XOeHvA vpwA d7rcw7ea TovrV I c vEsP rX-Pi wT Aj^, ovA
+3631400c-b472-11e7-a11f-a2150c8c35e5	(52, 1168, 913, 1215)	0433600700	3312421880	bad	 repent. avoir quitt�, ,y havingg quited. premier, firf. at-
+36314022-adbd-11e7-9904-be7e822b398b	(61, 1161, 782, 1214)	0295901000	3311335844	bad	 r jude 14, i. IDeut. xxxii. 4, 5, 6; Ezek; xXiiisj
+363141ec-ad92-11e7-a1fd-ba9d9623cb95	(124, 1157, 859, 1209)	0263400900	3312070850	bad	 tlur: qui acnifJit, contra rempublicam cefc
+36314342-ad09-11e7-92c9-6658d2e7a10d	(32, 607, 841, 655)	0110102500	3310592477	bad	 bcrjlira:is,m.infueti(uinis, picr.ti4, gr.ti anilmi, non
+36314518-b47f-11e7-a70c-62657c6670da	(89, 124, 762, 158)	0464500201	3313342013	bad	 ' aye, happy in any situation,' anfivercd Mis Mat-
+36314680-ad09-11e7-92c9-6658d2e7a10d	(32, 653, 842, 708)	0110102500	3310592477	bad	 :ppc:enrti, non .:vlid. fin:na prof'rri pcru:ilc ct; ca-
+363146d4-ace7-11e7-8fc8-6ac4a15efaf1	(60, 1601, 863, 1628)	0088500303	3310167751	bad	 Ilere he recommendeth the trse Form of Government, which is-
+36314836-b436-11e7-bd42-7afe6d3a1c6a	(133, 639, 767, 671)	0376300500	3311991661	bad	 Adouci leur rudeffe a me vouloir entendre.
+363148c2-ad92-11e7-a1fd-ba9d9623cb95	(65, 1276, 857, 1328)	0263400900	3312070850	bad	 Dccrevit Senatius frequentiifzilus, qui neam do-
+36223854-ca85-11e7-b241-0a1780af9650	(947, 2259, 1701, 2305)	0608300203	3314910834	bad	 vobis lex recitabitulr qua queri licet apud
+36223bee-ace7-11e7-8fc8-6ac4a15efaf1	(143, 1170, 947, 1198)	0088500303	3310167744	bad	" The ancient Pa.n God, are F-e- erv e.""riv ierI:ibed. This"
+36223c0a-ca85-11e7-b241-0a1780af9650	(947, 2299, 1698, 2342)	0608300203	3314910834	bad	 populum: deinde vos de rcliquis etiaml do-
+36223ca8-ad09-11e7-92c9-6658d2e7a10d	(143, 1378, 938, 1429)	0110102500	3310592466	bad	 ut 5 se penitus infinuet in caufam, ut fit cura &
+36223eaa-b48a-11e7-9efc-faf8399e7d72	(89, 250, 701, 293)	0475500300	3313875082	bad	 Rendi '1 mio corpo alla gran Madre antica,
+362240ac-b472-11e7-a11f-a2150c8c35e5	(177, 1035, 1036, 1078)	0433600700	3312421876	bad	 orgueil, pride. n'�tes propre qu'�, are.fit owtl to. en-
+362240b8-bde9-11e7-bb1f-0a9e45c799ec	(586, 289, 1063, 357)	0239200302	3310906506	bad	 * Ncgligcnce inattention i rcmilfnefr. Itod ero
+36224616-ace7-11e7-8fc8-6ac4a15efaf1	(145, 1204, 944, 1237)	0088500303	3310167744	bad	 far is a ccrvinci:.e evicfre Gcfl h ;r.;h of h.' orsineal, which
+36224724-b4d5-11e7-b788-caa953280e0e	(39, 591, 855, 639)	0568500900	3313272616	bad	 Semp. Curse on their Daltard Souls, they fland afto.
+36224874-ad09-11e7-92c9-6658d2e7a10d	(209, 1553, 938, 1590)	0110102500	3310592466	bad	 Intra qau venire debea, 'it peTveft. vulg. intra qmti venirr, '
+36224966-be0a-11e7-bb1f-0a9e45c799ec	(1089, 1212, 1476, 1238)	0296700102	3314881540	bad	 Qim miser virtutis famulatus, faeiefatio.
+36224ce0-be0a-11e7-bb1f-0a9e45c799ec	(1093, 1241, 1463, 1268)	0296700102	3314881540	bad	 Juptati? Chc. Ocj. 3, 33. Famulatal gnti
+36224e3a-b517-11e7-9c59-267df2724016	(256, 1786, 1197, 1841)	0653601700	3313747595	bad	 Zt/. Well, let a Man advire hqw he will, I -re you'Jl
+36224ed2-ad09-11e7-92c9-6658d2e7a10d	(141, 1586, 939, 1622)	0110102500	3310592466	bad	 Frpvefgehs nos. ornn. prater Nov. qui inter qs vtenere, ( pro vmen-
+36225022-ada3-11e7-86cd-3676c7a77d29	(124, 1563, 870, 1608)	0282300300	3311285204	bad	 Verba redargueret. nomen tamen haud leve patrum
+362251ec-ace7-11e7-8fc8-6ac4a15efaf1	(144, 1245, 944, 1273)	0088500303	3310167744	bad	 the poeth Zivcth ;o SuPtrflit;on; for if thele hi:n:rnrs iwere
+362254ec-ca85-11e7-b241-0a1780af9650	(591, 424, 2136, 465)	0608300203	3314910835	bad	 NEIZ IIOIEIN EKKAH�IAN EN AIONTOT THI TETEPAIAI EN
+362258a0-ad09-11e7-92c9-6658d2e7a10d	(144, 1620, 940, 1657)	0110102500	3310592466	bad	 nri glolfc.) & ferveftiga. alli aliter. % Inqiam, qji cum oRnl-
+36225924-ca85-11e7-b241-0a1780af9650	(589, 497, 2135, 532)	0608300203	3314910835	bad	 IIANAIOIE EN AE TATTHI XPHMATIZEIN IIPaTON MEN nEPI IE-
+36225ad8-b463-11e7-9485-76edbd14cc58	(21, 104, 657, 153)	0447000400	3312481023	bad	 orfe il mondo � qu� dentro ? O pur mi manca,
+361a7fb2-b471-11e7-b06e-121737acbca9	(59, 1168, 865, 1201)	0430401300	3312406025	bad	 tach�e fous notredit contre-Scel, & de le faire vendre & d�biter
+361a8196-bde6-11e7-bb1f-0a9e45c799ec	(1107, 2129, 2155, 2173)	0243600100	3311633954	bad	 fupply.-Not to affill; to negle&t; to omit to help.-'bo
+361a819a-ca85-11e7-b241-0a1780af9650	(183, 1648, 952, 1683)	0608300203	3314910828	bad	" ao-e'Esxv, a4rviOVT'ai SE vw EV SN xt"""" 'WEl"
+361a839a-b5b1-11e7-a128-22fc83a9b1b2	(115, 1399, 1326, 1437)	0877700600	3314823874	bad	 .309 Le Nouv. Test. et les Pfeaumes de David -- 1658
+361a8632-ad3d-11e7-989e-561593fd185e	(235, 655, 864, 694)	0150300101	3315489189	bad	 exematariYm pam diligertifm rejitaa. Lugduni per Scb..
+361a8782-bdae-11e7-bb1f-0a9e45c799ec	(170, 1437, 1125, 1473)	0191400200	3312491078	bad	 /Bu, )~fell) Trees, lAba.r: cu corrprr Dijf r iner m corps, e faire la
+361a8928-ada3-11e7-95d7-dafae9391ab6	(152, 880, 852, 930)	0268100202	3312526990	bad	 lniaL 'y y. ury- andlhe Laws .compell't ,
+361a89e8-ad74-11e7-8072-d6af0842ad95	(165, 802, 906, 842)	0199300500	3311119942	bad	 efl hbnde:Jatvrioni . Llyfiau ievan, y seidd.
+361a8a96-ca85-11e7-b241-0a1780af9650	(171, 1689, 1720, 1748)	0608300203	3314910828	bad	 7ywp TraryO5TO; T7i lSa, TO SxOa^SOlV KPHgi SEresov. E5v v o' dO av WEg; v7ra-
+361a8c46-b51b-11e7-99e1-5e71f0b54a1b	(193, 974, 946, 1017)	0660300300	3313766712	bad	 of tie co;iimon law. He vwas of:te pe-:; i'ic',
+361a8de2-acb8-11e7-86c1-8e0eccad500d	(40, 334, 869, 431)	0027300102	3309453460	bad	 difficulty?' 'Contemptible wretc, !' cried I, v ith a warmth
+361a9220-ca85-11e7-b241-0a1780af9650	(170, 1750, 1718, 1793)	0608300203	3314910828	bad	 7TqA s-ews. g 7Xp Erv; Tg 4FsvO aciXEiv O MESS;a` aviEwsal, aAxa WrE; TV T71J-
+361a9392-c819-11e7-85ea-2e90a3b9f2ba	(59, 1276, 693, 1319)	0346200702	3311754061	bad	 And the lhip.moor'd, conflrains the.crew tbland:
+361a972c-bdae-11e7-bb1f-0a9e45c799ec	(106, 1498, 1117, 1538)	0191400200	3312491078	bad	 otis, Le droit commnn, le wvound,)aBefrr.fJairm:iblej;orr, To cut down, Coaper, fier
+361a9816-b463-11e7-b40a-a27e09ac0700	(168, 1238, 922, 1282)	0430500503	3316117816	bad	" 'in theWoirld,; --wh"" -wiulid ffolliit her i'Com"
+361a991a-ad74-11e7-8072-d6af0842ad95	(127, 839, 907, 883)	0199300500	3311119942	bad	 Llyfiau 'r fuddau, dry- ioglwyd,feamug-wort,
+361a99c8-ca85-11e7-b241-0a1780af9650	(175, 1791, 1685, 1850)	0608300203	3314910828	bad	 tzaTof, roTepeov bpegES, 4 dctrecEa osiPE;6Eg SI'MxV. opcos S' o 0oyo; T7 7Ei ;I
+361a9b32-b471-11e7-b06e-121737acbca9	(58, 1270, 866, 1305)	0430401300	3312406025	bad	 d�fenfes � toutes fortes de perfonnes, de quelque qualit� & con-
+361a9bca-acb8-11e7-86c1-8e0eccad500d	(39, 508, 871, 555)	0027300102	3309453460	bad	 gate so deliberate a f.ldfihood !--He k no,'; the con-
+362d6746-b56e-11e7-8967-36f452166d2e	(118, 927, 1155, 987)	0814300400	3315316156	bad	 Quel ch' uomin far poteano, � gi� fatto.
+362d67d6-ad81-11e7-9a23-4affa0f6fd55	(64, 113, 657, 164)	0229000108	3311448486	bad	 atqi:e ci!lti , terminatur pecuaii modus.
+362d67f6-ca85-11e7-b241-0a1780af9650	(226, 613, 1723, 691)	0608300203	3314910846	bad	 w ru <'p t.fs ', I(9t TWS %'Lp /J' wecEi' J)cu'' & u-I
+362d6c5c-ad74-11e7-8072-d6af0842ad95	(123, 1434, 899, 1476)	0199300500	3311119948	bad	 Tafod yr edn leiaf, ,pi- wild agrimony, wild
+362d6d6a-ad3d-11e7-989e-561593fd185e	(242, 824, 843, 874)	0150300101	3315489197	bad	 ER e eearutio poetr in Academia LipfiG publicis ledio.
+362d6e34-ad18-11e7-b41e-6658d2e7a10d	(170, 570, 1259, 626)	0118800800	3310482291	bad	 Rev. Mr CharlesHoaloway, Chaplainfto le 'Englih Sac
+362d6e90-ca85-11e7-b241-0a1780af9650	(189, 699, 1732, 768)	0608300203	3314910846	bad	 7Aasx, Xi vuv^ ^ro9wxw 6 ^ytV. 4 TIOVJ ga� TOaWT ow Toy
+362d6efe-b563-11e7-9a21-9a0318a35ce7	(78, 469, 945, 510)	0818000202	3315322196	bad	 mother's fide, and Philip of Valois took posses-
+362d703c-ad09-11e7-92c9-6658d2e7a10d	(157, 1163, 943, 1212)	0110102500	3310592474	bad	 rum genus cuique caufarum gcncri maxinme con-
+362d74b0-ad09-11e7-92c9-6658d2e7a10d	(158, 1211, 941, 1259)	0110102500	3310592474	bad	 veniat, non est artis exquifite prxfcriber,. sed el
+362d74e6-bdae-11e7-bb1f-0a9e45c799ec	(35, 363, 1091, 398)	0191400200	3312491087	bad	 ict,, dtrt, ee. Difim, S. Deifme. Deliberation, S. Dclbratio,
+362d7656-b5b3-11e7-ae6f-76458c9e4d54	(142, 1607, 1003, 1673)	0885800102	3314861730	bad	 ime, thIcn think it much to hear nmy groa ? Abn.
+362d7768-ada3-11e7-8311-7af974c161df	(48, 1388, 927, 1432)	0272300106	3312532265	bad	 1blc fir liir:zing them too with my ceited tieps, (for Ilat is tile fear whicth
+362d79b0-ad09-11e7-92c9-6658d2e7a10d	(159, 1257, 945, 1306)	0110102500	3310592474	bad	 mediocris ingenii judicare. Nequc cnim nunc id
+362d7a90-bdae-11e7-bb1f-0a9e45c799ec	(53, 396, 895, 427)	0191400200	3312491087	bad	 To desy, y.4. Defier, fJre Deii, S. Deifie. conjirttion.
+362d7b38-ca85-11e7-b241-0a1780af9650	(186, 841, 1661, 914)	0608300203	3314910846	bad	 TaOv' br&�g fOIvs^4tC v71UcLg Izcrc v/4Y, G�x cgsos asrS '
+362d7c42-b517-11e7-9acd-aa5314733147	(252, 950, 2061, 1003)	0695400100	3314015088	bad	 found in the place; nor is the ozurce of the Scamander there, but' in the moun-
+362d7cce-ad3d-11e7-989e-561593fd185e	(217, 856, 846, 906)	0150300101	3315489197	bad	 nibus faRa. Berfmuanou tum Gymnaflo ServC no illuRri pre.
+362d7e06-ad09-11e7-92c9-6658d2e7a10d	(162, 1302, 947, 1354)	0110102500	3310592474	bad	 agimus, ut artem aliquam dicendi explicemus, sed
+362d80b8-b47f-11e7-a70c-62657c6670da	(100, 1071, 772, 1112)	0464500201	3313342011	bad	 in truti, he waged uin;qual war. � Ie was, belides,
+361e62ea-ad09-11e7-92c9-6658d2e7a10d	(168, 1719, 944, 1752)	0110102500	3310592462	bad	 cunda m2nu ex veteri pratere.. 6 Es tamen ipsa oratione rtferantar 0
+361e6852-bdae-11e7-bb1f-0a9e45c799ec	(296, 1038, 1066, 1088)	0191400200	3312491080	bad	 de petite m noyeqC ai avoir cours rn dfi, afprller ai cot:lat, pro.
+361e6892-bde6-11e7-bb1f-0a9e45c799ec	(16, 2669, 1000, 2731)	0243600100	3311633956	bad	 alred fpr a fccond aration.--Unplowed ; uncultivated.-
+361e69e8-ad09-11e7-92c9-6658d2e7a10d	(223, 1751, 955, 1806)	0110102500	3310592462	bad	 efl Joan. ipsa rarione refeidantur necefe eji Mag. l E1
+361e6a1c-be0a-11e7-bb1f-0a9e45c799ec	(90, 412, 1049, 446)	0296700102	3314881540	bad	 c;.:s ;: ferl:e, tr. L.; S. 36. (:) = c: dre frrc tur, Yig. (4) Ex tsrre fami
+361e6b36-ace7-11e7-8fc8-6ac4a15efaf1	(210, 1041, 959, 1071)	0088500303	3310167742	bad	" VER. 241. tbo frf tslbt Fil: t :1iwv'J, e""r.) Order ead-"
+361e6c52-ad3d-11e7-989e-561593fd185e	(241, 841, 868, 878)	0150300101	3315489191	bad	 quam diligentiflime correfum et mendatum in Epilola ad Chr;
+361e6e86-ca85-11e7-b241-0a1780af9650	(805, 701, 2028, 762)	0608300203	3314910831	bad	 7 O-EUTEoOS 'p, I, AUtXIss ea, v ol,� 'tplo: *o,'v . T~OSos,
+361e6fec-ad09-11e7-92c9-6658d2e7a10d	(30, 136, 821, 184)	0110102500	3310592463	bad	 clufas defcribunt in perfonis & in temporibus
+361e7438-ad09-11e7-92c9-6658d2e7a10d	(30, 183, 822, 233)	0110102500	3310592463	bad	 pofitas esse. Nam ctfi incurrunt tempora & per-
+361e7822-be0a-11e7-bb1f-0a9e45c799ec	(266, 442, 1048, 470)	0296700102	3314881540	bad	 Os, id eft, cfid, si rli c:a, Gria hc: collecLa funt, C:. N. D. 3, a3.
+361e78aa-ad74-11e7-8072-d6af0842ad95	(148, 364, 885, 409)	0199300500	3311119944	bad	 wort, far-wort, flea- Meddvgyn, y feddyge?,
+361e7986-b57b-11e7-923b-3a4898d2abfd	(174, 907, 1038, 946)	0856000202	3315709676	bad	 cufrs ofCten ubllitled in place of the rcal motives,
+361e79d8-ad81-11e7-9a23-4affa0f6fd55	(22, 721, 605, 778)	0229000108	3311448477	bad	 Galba fous l'Empire de Neron, in defidiamJsgni-
+361e7cac-bdae-11e7-bb1f-0a9e45c799ec	(40, 1091, 1074, 1152)	0191400200	3312491080	bad	 :tpT, spprrter du donsminge, * t Dandiprar, (a little Man To dare dangers, trave7r cU
+361e7e6a-ad09-11e7-92c9-6658d2e7a10d	(31, 277, 821, 333)	0110102500	3310592463	bad	 gencre qusftionis pendcre causas. Scd hoc nihil
+361e81e6-be0a-11e7-bb1f-0a9e45c799ec	(88, 464, 911, 498)	0296700102	3314881540	bad	 c-.ris.tai T- z , fir falria Clcdrun, Ci.. e Fame in plr. PFlor. solus.
+361e82ac-ad09-11e7-92c9-6658d2e7a10d	(31, 325, 822, 372)	0110102500	3310592463	bad	 ad me; nullum enim nobis ccrtamcn cum iftis eflc
+361e8558-ace7-11e7-8fc8-6ac4a15efaf1	(161, 1113, 958, 1142)	0088500303	3310167742	bad	 nprion of riil Societd into TJrsn;', and its Causes 2ad here,
+3629adfc-b552-11e7-9260-86ae7ac82394	(115, 210, 951, 245)	0793800402	3314411651	bad	 ' sion, qutiltionic'lls, you would rathir . lecrifice your ii:.,
+3629b09a-bdc2-11e7-bb1f-0a9e45c799ec	(566, 929, 1027, 960)	0212400601	3311132702	bad	 � 16l. Direrisrns fr reading the Cl.j,.'.
+3629b282-ca85-11e7-b241-0a1780af9650	(164, 1790, 916, 1832)	0608300203	3314910842	bad	 habeo, istum turn fuiffe dicturum. rei enim,
+3629b300-ad92-11e7-a1fd-ba9d9623cb95	(82, 733, 870, 781)	0263400900	3312070842	bad	 Oluid ~facercs pro hominie innoccnte & propinquo,
+3629b482-b552-11e7-9260-86ae7ac82394	(115, 243, 943, 274)	0793800402	3314411651	bad	 � th:n contl}nt to dil'avcw thele tentiments which, up.
+3629b584-ca85-11e7-b241-0a1780af9650	(163, 1833, 914, 1874)	0608300203	3314910842	bad	 opinor, et fontis est, certum iudicii modum,
+3629b692-be0a-11e7-bb1f-0a9e45c799ec	(264, 1022, 1397, 1051)	0296700102	3314881542	bad	 , i. =tic, perfofionilfqe p enos cnla fato agi, profpcr, Citc. G Horribilis, IdA
+3629b760-ad92-11e7-a1fd-ba9d9623cb95	(145, 779, 872, 828)	0263400900	3312070842	bad	 cu!t7 proptor hom0inem perdtitfimuml atque
+3629bab2-ad92-11e7-a1fd-ba9d9623cb95	(143, 824, 869, 874)	0263400900	3312070842	bad	 alieniffimum de offcio ac dignitate decedis.
+3629bac6-b472-11e7-a11f-a2150c8c35e5	(105, 802, 967, 847)	0433600700	3312421878	bad	 f.Ke fiai!e:rs. �blouirtnt, dazz!kd. voyez, fie. quelle,
+3629be64-ace7-11e7-8fc8-6ac4a15efaf1	(133, 1291, 877, 1319)	0088500303	3310167747	bad	 VER. 295. Surh is the ira orld'gr Lt Iarmoay. yer.) lHaving
+3629bf20-be0a-11e7-bb1f-0a9e45c799ec	(136, 1049, 1476, 1081)	0296700102	3314881542	bad	 Fl-uionss. t. lonart v eSab , fed innctis, S 7. . Eo. (4) Qpimos ego confido impen- Faotor, oris. m. vel,. [j faes] Afr...
+3629c0f6-ca85-11e7-b241-0a1780af9650	(164, 1951, 919, 1990)	0608300203	3314910842	bad	 nullus est: fapientis autem iudices decet, et
+3629c174-ad92-11e7-a1fd-ba9d9623cb95	(83, 933, 870, 979)	0263400900	3312070842	bad	 Quibus ego si quam iiedicinaml invenirem, tibi
+3629c4d6-b552-11e7-9260-86ae7ac82394	(113, 311, 950, 345)	0793800402	3314411651	bad	 � preltnit the defirc ot continuing near rme, obliges you to
+3629c4fc-ca85-11e7-b241-0a1780af9650	(163, 1989, 917, 2031)	0608300203	3314910842	bad	 haec non audire, et quemcunque petulanter
+3629c9ce-b541-11e7-bec1-624a3ce779b6	(53, 1674, 970, 1723)	0731001200	3314106874	bad	 Then Drances ipfitefill even to TLtrnhi niame,
+3629cac4-ca85-11e7-b241-0a1780af9650	(163, 2069, 915, 2109)	0608300203	3314910842	bad	 ercere. ne igitur eun dicere finatis, priuata
+3629cb02-b552-11e7-9260-86ae7ac82394	(114, 344, 950, 379)	0793800402	3314411651	bad	 ' ly this conftl.rint upon yourl.llt' howvcvel, you know
+3629cb60-ad92-11e7-a1fd-ba9d9623cb95	(85, 1084, 872, 1131)	0263400900	3312070842	bad	 Ouis autem poend ejus 'noveretur, qui id commi-
+36314a50-acd6-11e7-957f-6ac4a15efaf1	(61, 1473, 679, 1518)	0073002000	3310377256	bad	" Pemb. 0 Giljfrd! fay't not fov a Kingdom."""
+36314b76-ad09-11e7-92c9-6658d2e7a10d	(31, 702, 842, 753)	0110102500	3310592477	bad	 q-C onfi:i, I qjux probonul, dcmrfrnifTm, non a-
+36314bbc-ad81-11e7-9a23-4affa0f6fd55	(58, 103, 650, 148)	0229000108	3311448489	bad	 trop pr�s: Vofire perfpicacit� vous nuit
+36314c96-ad92-11e7-a1fd-ba9d9623cb95	(137, 1323, 858, 1375)	0263400900	3312070850	bad	 snum 'aviolasjt contra rempublicamn eff efac.-
+36314d8e-ac9a-11e7-b218-32ad471134e2	(45, 1155, 753, 1191)	0012800100	3312032069	bad	 liiaw's brain was diordered, mai;d the anol accouirt lie
+36314fbc-b48a-11e7-9efc-faf8399e7d72	(14, 416, 633, 464)	0475500300	3313875097	bad	 . Rofmunda ! ov' �? farebbe mai fuggita?
+363150b6-ace7-11e7-8fc8-6ac4a15efaf1	(57, 1635, 841, 1665)	0088500303	3310167751	bad	 the mix'd. In another place he as ftrolily .condenneh the fiji,
+363151d6-ca85-11e7-b241-0a1780af9650	(495, 697, 1726, 773)	0608300203	3314910850	bad	 doctt dwvnyi4ov a'g's g7 w roA', ao'Lo; &I
+363153e6-adbd-11e7-9904-be7e822b398b	(22, 1355, 785, 1397)	0295901000	3311335844	bad	 infpir'd apostle of the Gehtiles, hs appears fromi Rom;
+363154a4-ad81-11e7-9a23-4affa0f6fd55	(57, 147, 649, 197)	0229000108	3311448489	bad	 ici, comme fi fait-elle affiz ailleurs. Je
+363154d2-ada3-11e7-86cd-3676c7a77d29	(52, 1008, 816, 1079)	0282300300	3311285208	bad	 Turn sic expirans Accam ex aqualibus unam 820
+36315576-c8b6-11e7-9387-46407aefa844	(149, 1193, 1196, 1248)	0911800900	3315149770	bad	 tan. Badalatyn myharan ynjam jabadalanan
+36315616-ad09-11e7-92c9-6658d2e7a10d	(37, 794, 840, 839)	0110102500	3310592477	bad	 racrbo;um lunt, v.ildc 'lenivonl:tinl 3 conciliant,
+363156ee-b56e-11e7-8967-36f452166d2e	(347, 468, 1516, 533)	0814300400	3315316159	bad	 [Vould be fave Cato ? Bid bim fpare bis Country .
+3631584e-ad92-11e7-a1fd-ba9d9623cb95	(120, 1488, 856, 1539)	0263400900	3312070850	bad	 for7tinam?, quamn Dii 'dtdiznt. Liv 30, 40.
+363159d6-ad09-11e7-92c9-6658d2e7a10d	(32, 840, 844, 892)	0110102500	3310592477	bad	 aKhlicnan'q,'e ab iis, in,quilus hxc non flunt. Ita-
+36315cb8-ad92-11e7-a1fd-ba9d9623cb95	(68, 1555, 859, 1615)	0263400900	3312070850	bad	 Docrt e'm ,n magnofore prcuiculo, si quid advi ji
+36315d3e-acf8-11e7-98fd-a292e898d3f9	(86, 225, 1248, 291)	0099701401	3310182943	bad	 Should Venus leave thee, ev'ry Chalim hlu m fly, sl5
+36315dee-b436-11e7-bd42-7afe6d3a1c6a	(136, 731, 847, 774)	0376300500	3311991661	bad	 D'un genie, a vrai dire, au-deffus de 1'humain.
+36315eae-ad09-11e7-92c9-6658d2e7a10d	(32, 889, 841, 939)	0110102500	3310592477	bad	 quc ce.dcm flint in adverfirios ex contrlrio 4 con-
+36315f7a-b48a-11e7-9efc-faf8399e7d72	(10, 525, 602, 568)	0475500300	3313875097	bad	 l.J E' Itata prefa, & � qu� poco addietro.
+363160a8-b4c4-11e7-83e2-52e56525f034	(230, 527, 995, 582)	0561902402	3313263262	bad	" ""rbins. And :'.hichi, t'houh thou mav'f nrot"
+3631619a-b472-11e7-a11f-a2150c8c35e5	(51, 1251, 913, 1296)	0433600700	3312421880	bad	 chou, litle cabbage learf ne cou;oit rien, cof nothing. �
+3631620c-ca85-11e7-b241-0a1780af9650	(170, 843, 1722, 916)	0608300203	3314910850	bad	 oyqdsi, i S re* gncpo�Vy. dvcyva^& GSro' hepc.aY OuvTo roT; f.Lwi-
+36316554-be0a-11e7-bb1f-0a9e45c799ec	(84, 444, 547, 473)	0296700102	3314881544	bad	 C-l. :, 21. (3) Pocai alsi ia--ro, a:;.ce
+363168ea-ad09-11e7-92c9-6658d2e7a10d	(44, 983, 841, 1034)	0110102500	3310592477	bad	 .uli e xccllcr, in quibu-. inti po inflanmal;i
+36316966-b48a-11e7-9efc-faf8399e7d72	(27, 577, 636, 624)	0475500300	3313875097	bad	 Oh quanto � il Ciel benigno alle mie voglie!
+363169c8-b48c-11e7-acb5-0649dd711b60	(32, 1270, 1120, 1351)	0500500300	3312967128	bad	 Be careful, Allen cries,'and do niot: fiay':' -
+36316a72-be0a-11e7-bb1f-0a9e45c799ec	(84, 472, 548, 500)	0296700102	3314881544	bad	 z-. iciss :: Zi.'ea --f:b'L rb-: (4) Uxsr
+36316c16-ca85-11e7-b241-0a1780af9650	(280, 1067, 1473, 1105)	0608300203	3314910850	bad	 NAIETE KAI IIATPIOIZI NOMOI� IeTNEG EOPTAE
+36316dae-ad09-11e7-92c9-6658d2e7a10d	(31, 1033, 843, 1081)	0110102500	3310592477	bad	 animus judicis acri & vlcnllcnri quad.un incita-
+36316f68-ca85-11e7-b241-0a1780af9650	(277, 1135, 1579, 1172)	0608300203	3314910850	bad	 MEMNH�0AI BAKXOIO KAI ETPrXOPOTr KAT ArTIAE
+363171ba-ac9a-11e7-b218-32ad471134e2	(46, 1230, 755, 1264)	0012800100	3312032069	bad	 lowever, lie coukl no longe; re ti;i:., v-': ;n :.. airived at
+3631754a-b463-11e7-9485-76edbd14cc58	(34, 1537, 727, 1594)	0447000400	3312481040	bad	 Oim�, che intendo ? Erg. E nulla ancot intendi
+36317652-ca85-11e7-b241-0a1780af9650	(277, 1271, 1670, 1306)	0608300203	3314910850	bad	 KAI KNIEZAIN BnZMOII KAPH ZTE4ANOI nlITKAEANTA�.
+36317680-b472-11e7-a11f-a2150c8c35e5	(50, 1292, 911, 1339)	0433600700	3312421880	bad	 pr�fent, x�t. n'ai que des coups, haveonly blows. changea
+363176b4-c8b6-11e7-9387-46407aefa844	(152, 1387, 1197, 1444)	0911800900	3315149770	bad	 ziaka jyy'ti mengy'st hajl wasybhat laalama a
+363176c8-ad09-11e7-92c9-6658d2e7a10d	(30, 1124, 843, 1175)	0110102500	3310592477	bad	 .sed Lrpe plJcida., rfmm;fit, lcnis, qu.x maxime
+36317730-b42b-11e7-b5dc-6e2a8cee1950	(128, 1513, 1034, 1555)	0391800800	3312600596	bad	 ubiqhe gentiunm folnnis. Ve- nuptiali, fponfo pariter & fpon-
+363179a4-ca85-11e7-b241-0a1780af9650	(160, 1331, 1716, 1374)	0608300203	3314910850	bad	 slEPI TrIEIA� OTEIN KAI ETXEGiAI AII TIIATZI KAI HPAKAEI
+36317a1e-b48a-11e7-9efc-faf8399e7d72	(14, 684, 593, 729)	0475500300	3313875097	bad	 ,f Noi cercavam di lei pe '1 bofco folto,
+361a9c6c-b463-11e7-b40a-a27e09ac0700	(173, 1281, 937, 1333)	0430500503	3316117816	bad	 palfion for hiim, I, fair-Nymphs' threw'my.-
+361a9cee-ad92-11e7-a1fd-ba9d9623cb95	(118, 1753, 896, 1831)	0263400900	3312070826	bad	 : cnnot be used; as, I reddl Ilerdotn s mar' 'year; ago, ic; not
+00000046-aca1-11e7-b218-32ad471134e2	(81, 1108, 948, 1160)	0017000101	3309255285	good	" up "",ith great reluctance in the middle. of his"
+000000f0-b5c0-11e7-8619-a2731ac939f3	(162, 353, 919, 393)	0881300105	3315720333	good	 His word upon you. Since 1 had my office,
+0000017e-b43d-11e7-bf8a-6e2a8cee1950	(69, 1208, 751, 1251)	0404603200	3312301372	good	 Too little care of this! Take physic, pomp
+000002ce-acd0-11e7-8584-ba320057d2a2	(68, 643, 924, 689)	0050100101	3309723202	good	 VA LE RE. This Distemper will go off, take but some
+000002da-acbf-11e7-b054-36c3442de448	(83, 655, 977, 710)	0032900200	3309961491	good	 availed him nothing, at last told her in plain
+00000364-b4a0-11e7-99ec-1228faa3f45b	(75, 520, 804, 565)	0482100502	3312892237	good	" "" my knees; I drew in your breath, and that"
+0000038c-b54a-11e7-be27-8a2110004707	(296, 526, 1795, 593)	0783200600	3314258841	good	 autumn, that species of fly which delights to
+00000398-c984-11e7-b679-0aa0c17a5110	(161, 444, 1081, 492)	0272600704	3311671646	good	 do; and even set me down at your Gate, if it do
+000004ca-b50b-11e7-8554-c61263f67729	(38, 531, 746, 572)	0653100502	3313735568	good	 here for George Tomkins, and as he is reckoned
+00000502-b46a-11e7-8ab0-7e6134dda259	(53, 376, 937, 433)	0424901900	3312626553	good	 Long strove to bring the fierce Disease to cure
+0000056a-c98d-11e7-8664-0ad2516613d6	(37, 1024, 1204, 1071)	0374400102	3312588742	good	 risen chiefly from two persons who were not much talked of; and those, fays
+00000588-b50b-11e7-aec4-aa5314733147	(73, 1048, 767, 1094)	0633000605	3313627043	good	 sword and scabbard with a trembling hand
+0000063a-c8e0-11e7-8125-0aa98677277a	(57, 1454, 878, 1496)	0019100107	3309110015	good	 pared to his poor dying friend, that he has recovered
+00000696-ad9f-11e7-b92a-56c06c6829bf	(137, 556, 1000, 608)	0263400200	3312070535	good	 The Dutchess did not long continue in that
+000007b4-ad8a-11e7-889c-8630cca797eb	(37, 1416, 775, 1466)	0259200300	3315891844	good	" ""Sad presage to vain boasters, now in bloom !"
+00000860-acc5-11e7-8c28-a2fb53a190a2	(57, 1087, 945, 1133)	0054600105	3310564125	good	 peep out, for all the country is laid for me: but now
+00000906-acb0-11e7-a8a6-4ed32d8ea7ab	(191, 1078, 1007, 1123)	0022100103	3309686178	good	 but here you are called White ; and half a
+000009c8-b59e-11e7-92d2-5ac0dbdb634b	(177, 1227, 1127, 1272)	0862600131	3315929502	good	 ways made the best use of this advantage, or seem
+000009ce-c975-11e7-8e58-0aa0c17a5110	(44, 1213, 643, 1256)	0212101100	3310721600	good	 In Whispers first their tender Voices try:
+00000ac8-b5d4-11e7-ba46-c24e6d42ace6	(237, 606, 1289, 648)	0920000300	3315200073	good	 Mr. Ombre. What means that Crowd of little Animals,
+00000ada-b4fa-11e7-ac14-ea8f739403f5	(177, 1292, 988, 1342)	0618701900	3313590506	good	 Note, But we may reckon these words only
+00000bc2-acbf-11e7-b054-36c3442de448	(84, 703, 976, 755)	0032900200	3309961491	good	 Terms, that if these were her Sentiments, he
+00000c34-c8e0-11e7-8125-0aa98677277a	(58, 1495, 879, 1536)	0019100107	3309110015	good	 from his illness, and has till an opportunity lent him,
+00000c82-b4ba-11e7-b582-960818c7550d	(80, 1141, 852, 1193)	0559300102	3313238897	good	 good men among them, as the Archdeacon fays,
+00000d00-b4dc-11e7-98b9-a65665d18f37	(78, 1243, 956, 1293)	0605102200	3313539323	good	 neither I can cure, nor will the Criticks forgive,
+00000e28-adc4-11e7-b930-ee72b5a4faa0	(204, 591, 795, 624)	0300200200	3311341406	good	 Advise a wretch like me to know repose ?
+00000f7a-ad7b-11e7-83a1-1623dfa2d91f	(99, 812, 671, 847)	0226300101	3316302742	good	 Some thrid the mazy ringlets of her hair;
+00000fa4-ad74-11e7-a74b-4affa0f6fd55	(129, 253, 936, 302)	0213900302	3313009002	good	 and his head was full of the Grecian history
+000010c0-b54a-11e7-be27-8a2110004707	(296, 619, 1790, 686)	0783200600	3314258841	good	 lay its eggs upon unsound or corrupted flesh;
+00001126-b683-11e7-a994-ae46d846ba23	(153, 733, 1015, 777)	0982900400	3315460657	good	 1proceed to sentences, words, syllables, and.
+00001178-ad8a-11e7-889c-8630cca797eb	(38, 1471, 597, 1520)	0259200300	3315891844	good	" ""By the long lift of swift mortality,"
+00001194-c984-11e7-b679-0aa0c17a5110	(160, 493, 1082, 543)	0272600704	3311671646	good	 not; but he vows, that he will not alight at your
+000011c8-c8d8-11e7-9240-0aa98677277a	(148, 407, 1129, 483)	0000400202	3309402907	good	 at this time, bu; I know a Man who will lend it
+00001260-c8e0-11e7-8125-0aa98677277a	(58, 1536, 881, 1578)	0019100107	3309110015	good	 for which I would give a thousand worlds, had I them to
+0000126c-b5ce-11e7-9e6f-a222e0e7626d	(234, 1618, 1045, 1658)	0912100102	3315153190	good	 eye in the forehead of one of these Cyclops, might
+0000127c-b5f5-11e7-87cf-c29579def9fa	(268, 418, 1284, 468)	1018100300	3315647786	good	 right but irregular and inconstant, if the other
+000012d2-b4dc-11e7-98b9-a65665d18f37	(78, 1294, 959, 1337)	0605102200	3313539323	good	 and such are the Non-observance of Time,
+00001358-b43d-11e7-bf8a-6e2a8cee1950	(68, 1250, 711, 1290)	0404603200	3312301372	good	 Expose thyself to feel what wretches feel,
+0000139c-acbf-11e7-b054-36c3442de448	(82, 754, 976, 806)	0032900200	3309961491	good	 hoped she would pardon him, if, to provide for
+0000156c-acc5-11e7-86e3-2eaf81f4e0f7	(89, 1381, 984, 1427)	0050100107	3309724411	good	 cotes & de le presser fur la cause de cette profonde
+00001584-b41e-11e7-a620-fedc0d2a5942	(67, 348, 678, 391)	0363100703	3311831283	good	 Resolve it, down the dew, or manna fleet:
+00001616-adc4-11e7-b930-ee72b5a4faa0	(205, 638, 903, 682)	0300200200	3311341406	good	 This is my last abode: there caves, these rocks,.
+000016be-ad12-11e7-9e8a-ca5367144497	(112, 1572, 989, 1629)	0111300400	3310208435	good	 and that fingers only will come when they
+0000176c-b4de-11e7-8728-de1c5ecddd2b	(222, 365, 1146, 420)	0569101200	3313283655	good	 a dozen Villains; but finding me resolute,
+000017a0-b4a0-11e7-8511-e6cff5fe316c	(160, 528, 870, 588)	0482100503	3312892554	good	 pining in tears, and begging to be suffered to
+0000195a-b4bc-11e7-892c-5a572efe06e2	(29, 223, 998, 275)	0561500500	3313900367	good	 nating on his sermon, or more likely thinking of the
+00001b40-c98d-11e7-8664-0ad2516613d6	(39, 1116, 1202, 1161)	0374400102	3312588742	good	 assertions with so many broken hints, and such a flow of depth and wisdom,
+00001be0-ad9f-11e7-b92a-56c06c6829bf	(87, 734, 996, 786)	0263400200	3312070535	good	 done to you, my Lord, that you would kill
+00001c76-b4de-11e7-8ac0-6e7d22024e7f	(112, 518, 865, 555)	0569000100	3313280951	good	 Bloomer find her mistake, and vant to return home
+00001c7c-b479-11e7-ad3d-5a38c0527a33	(49, 226, 969, 280)	0439500103	3312822681	good	 s what is more to our present purpose, he
+00001cce-acc5-11e7-8c28-a2fb53a190a2	(58, 1131, 949, 1180)	0054600105	3310564125	good	 am I so hungry, that if I might have a lease of my
+00001dea-b5b8-11e7-a058-fe3074ac0733	(47, 387, 969, 424)	0874500604	3314805233	good	 NUTE, in order to open it before him; this being a
+00001e94-b41e-11e7-a620-fedc0d2a5942	(67, 389, 674, 436)	0363100703	3311831283	good	 The manna dew, that in the eastern lands,
+00001eb4-c984-11e7-b679-0aa0c17a5110	(158, 540, 1082, 588)	0272600704	3311671646	good	 House, nor let his Lady neither. But I 1ay, that
+000040bc-adc6-11e7-b2bc-f6f752d716ac	(195, 1456, 1032, 1500)	0295600110	3311359582	good	" with much pleasure, said to his friends, "" There"
+00004126-b4fa-11e7-b6b5-42de12ea68a8	(40, 1588, 846, 1625)	0605400700	3313932457	good	 are spoken in the Person of the Poet, or of the Chorus;
+00004152-b5f5-11e7-a074-c6437b0bcdd6	(57, 233, 1089, 284)	1018101900	3315995618	good	 of his, the fugitive Sentiment immediately takes
+00004256-c8d8-11e7-9240-0aa98677277a	(163, 775, 1146, 850)	0000400202	3309402907	good	 said I, being to go to this Wedding where I know,
+000042cc-acb0-11e7-95e5-9e6f3b3d7d8a	(111, 1733, 935, 1786)	0027500800	3309457998	good	 thers Dealth; and in a Fortnight after he
+0000433a-b5c0-11e7-8619-a2731ac939f3	(165, 671, 982, 711)	0881300105	3315720333	good	 The prime man of the slate ? I pray you tell me
+00004352-ca3e-11e7-a169-0a1780af9650	(566, 1479, 961, 1505)	0482300107	3312896118	good	 And of intelligence, from scale to scale
+00004396-b4ba-11e7-b582-960818c7550d	(89, 1464, 858, 1511)	0559300102	3313238897	good	 ever. Nor is this likewise strange, that in the
+00009dde-adb5-11e7-b374-be7e822b398b	(63, 563, 1023, 612)	0281900700	3311277046	good	 but not for himself: And you are equally certain
+0000a2f2-adb5-11e7-b374-be7e822b398b	(63, 614, 1021, 661)	0281900700	3311277046	good	 from all other historians, as well as from the Evan.
+00004604-ca3e-11e7-bc79-0a1780af9650	(32, 1008, 428, 1034)	0482200103	3312894407	good	 Had le been born like me, like me his love
+00007672-adc6-11e7-b2bc-f6f752d716ac	(195, 1776, 1028, 1824)	0295600110	3311359582	good	 Troy. When a guest was going to take horse,
+00007ff0-adc6-11e7-b2bc-f6f752d716ac	(197, 1831, 1021, 1867)	0295600110	3311359582	good	 the landlord took leave of him with this corn.
+0000abce-adc6-11e7-b2bc-f6f752d716ac	(93, 370, 927, 411)	0295600110	3311359583	good	 grees, that appellation prevailed, and he was
+00007750-adc4-11e7-b930-ee72b5a4faa0	(192, 1393, 972, 1439)	0300200200	3311341406	good	 Then heap your rocks, your mountains on my head
+0000519e-adc4-11e7-b930-ee72b5a4faa0	(200, 1018, 799, 1056)	0300200200	3311341406	good	 Stand on the cliff in madness and despair.
+0000cca4-b41e-11e7-a620-fedc0d2a5942	(70, 1294, 726, 1342)	0363100703	3311831283	good	 Sometimes) the locks and hinges of the breast.
+0000d5a0-b41e-11e7-a620-fedc0d2a5942	(71, 1335, 710, 1379)	0363100703	3311831283	good	 By them the heart makes rallies: wit and sense
+0000d47e-b41e-11e7-9867-1a0828d6a924	(34, 1790, 845, 1837)	0381000500	3317277851	good	 waiting upon them to their several Chambers, and,
+0000ace2-b41e-11e7-9867-1a0828d6a924	(36, 1660, 845, 1702)	0381000500	3317277851	good	 late, to seek him out; but did not impart his Design
+000045b8-b41e-11e7-9867-1a0828d6a924	(65, 1227, 851, 1274)	0381000500	3317277851	good	 Studies to oblige you, render the Remainder of
+00004b84-b43d-11e7-91db-7240e0e3d5db	(47, 515, 824, 569)	0388100600	3312137310	good	 Hunger calls out, my Reason bids me eat,
+0000a106-b43d-11e7-91db-7240e0e3d5db	(55, 1016, 842, 1058)	0388100600	3312137310	good	 Those Creatures are the wisest who attain;
+00007d98-b43d-11e7-91db-7240e0e3d5db	(49, 816, 789, 867)	0388100600	3312137310	good	 5111 nere recant, defend him if you can..
+0000ce0a-b443-11e7-91db-7240e0e3d5db	(116, 845, 818, 894)	0391400500	3312229066	good	 No setting fun, nor yet a wind that blows,
+00007c1c-b46a-11e7-8ab0-7e6134dda259	(73, 1417, 867, 1472)	0424901900	3312626553	good	 Ordain, as you think fit; deny, or grant,
+00004f1e-b486-11e7-9563-e66f85527e41	(94, 1318, 866, 1360)	0485100600	3312926627	good	 that offers himself in the Court of his own accord,
+000072bc-b479-11e7-b667-a6781df46efa	(64, 1721, 886, 1777)	0444200300	3312656181	good	 have cried all day for some bread, and i have
+00009ee0-b479-11e7-b667-a6781df46efa	(74, 228, 902, 276)	0444200300	3312656182	good	 been ill these three months. I have spent all
+0000d64e-b479-11e7-b667-a6781df46efa	(73, 399, 904, 442)	0444200300	3312656182	good	 cannot fir from his bed, and I have these two
+00004bc0-b479-11e7-ad3d-5a38c0527a33	(39, 419, 966, 472)	0439500103	3312822681	good	" ""vine institutions are adapted to every"
+00007326-b4a0-11e7-99ec-1228faa3f45b	(121, 827, 803, 870)	0482100502	3312892237	good	 It was in vain that they recalled to memory
+0000a404-b4a0-11e7-99ec-1228faa3f45b	(78, 930, 805, 972)	0482100502	3312892237	good	 but what was natural and innocent, nothing
+00007bbe-b4a0-11e7-8a75-1aa1c204e3d4	(188, 344, 977, 385)	0482000201	3312888061	good	 precaution. But after our arrival at Paris, George
+00004f54-b4a0-11e7-8511-e6cff5fe316c	(163, 682, 872, 740)	0482100503	3312892554	good	 her design of returning to India, and preserve
+0000d5c8-b4a0-11e7-8511-e6cff5fe316c	(171, 1042, 881, 1103)	0482100503	3312892554	good	 her, became serious, on being deprived of her.
+0000d514-b4a0-11e7-8a75-1aa1c204e3d4	(186, 545, 978, 580)	0482000201	3312888061	good	 notions of the world, he was not at all a
+0000a354-b4ab-11e7-999b-7606069b6287	(114, 1351, 946, 1399)	0524500100	3313130628	good	 Gil. I am thinking, Sir. Yes, yes, 'tis a Trick of
+0000a0ca-b4ba-11e7-b582-960818c7550d	(221, 296, 998, 345)	0559300102	3313238898	good	 how the example of that late great ornament of
+0000d298-b4ba-11e7-b582-960818c7550d	(259, 616, 995, 667)	0559300102	3313238898	good	 But though he has offered nothing in this
+0000cdce-b4cf-11e7-b785-526a8d9f5e3f	(210, 1727, 938, 1763)	0584300106	3313398857	good	 The eldest whose belly sunk in monstrously, was a
+0000a3d0-b4cf-11e7-b785-526a8d9f5e3f	(209, 1559, 936, 1595)	0584300106	3313398857	good	 whose deformity in shape was made up by the clearness
+00007edc-b4cf-11e7-b785-526a8d9f5e3f	(208, 1436, 933, 1471)	0584300106	3313398857	good	 who with a shrill voice spoke in the following manner:
+0000725c-b4cf-11e7-b785-526a8d9f5e3f	(208, 1392, 934, 1429)	0584300106	3313398857	good	 of a youth of an open ingenuous aspect appeared in it,
+00004bae-b4d1-11e7-9155-6e7d22024e7f	(66, 631, 859, 678)	0559300103	3313359090	good	 finch Dispatch, that he had not so much Time
+00004d4c-b4fa-11e7-b6b5-42de12ea68a8	(43, 1638, 848, 1679)	0605400700	3313932457	good	 if of the latter, what follows about the Feast, is to. be
+00007a38-b4fa-11e7-b6b5-42de12ea68a8	(89, 186, 865, 284)	0605400700	3313932458	good	 And spread with Luxury his friendly Board, For
+0000ceb6-b4fa-11e7-b6b5-42de12ea68a8	(60, 695, 870, 737)	0605400700	3313932458	good	 Chorus to speak in his own Person, there is an Enallage
+0000acce-b4f0-11e7-becc-267df2724016	(25, 1329, 692, 1376)	0633100402	3313629189	good	 The smiles and graces melt in soft desire,
+00007aa6-b4f0-11e7-becc-267df2724016	(21, 977, 699, 1026)	0633100402	3313629189	good	 None please the fancy who offend the ear.
+00007572-b4de-11e7-8ac0-6e7d22024e7f	(117, 921, 871, 966)	0569000100	3313280951	good	 Tho' appearances are against her, yet, I dare affirm,
+0000a3f8-b4de-11e7-8ac0-6e7d22024e7f	(117, 1129, 874, 1171)	0569000100	3313280951	good	 when I shall have him to himself. (aside) Well,
+0000d1e0-b4fa-11e7-8033-526a8d9f5e3f	(64, 1038, 796, 1083)	0633400300	3313633265	good	 mercy to their present slaves If they will not,
+0000d742-b4de-11e7-8728-de1c5ecddd2b	(260, 1175, 1134, 1218)	0569101200	3313283655	good	 AMel. I don't doubt but we (hall be better
+0000ce8e-b4eb-11e7-b456-3205f2f0ffd9	(68, 1484, 902, 1527)	0628400500	3313606167	good	 by the cruelty of those who should be kind to us.
+00004d5e-b50b-11e7-aec4-aa5314733147	(73, 1229, 768, 1272)	0633000605	3313627043	good	 horse by the bridle, to follow his hearse, as
+0000749e-b50d-11e7-97f0-ba35c8a7516f	(162, 1610, 992, 1652)	0681501200	3313964048	good	 are further remov d from the Nature of Beasts,
+0000a4f0-b50d-11e7-97f0-ba35c8a7516f	(22, 148, 862, 195)	0681501200	3313964049	good	 because they have neither Reason nor Speech;.
+0000cf72-b50b-11e7-86af-2edb2802f38d	(55, 841, 901, 883)	0675101500	3314918608	good	 two Truffles of a Beard, forsooth, to lodge a Dung-hill of
+0000aa1a-b54c-11e7-a6d7-0ed681489cce	(128, 955, 1181, 1007)	0761900203	3315274721	good	 mentioned; but they will state such, as they
+0000750e-b54c-11e7-a6d7-0ed681489cce	(132, 746, 1182, 790)	0761900203	3315274721	good	 articles considerably differ. Your committee
+0000739e-b54a-11e7-be27-8a2110004707	(304, 1358, 1805, 1424)	0783200600	3314258841	good	 over which it runs as powerfully as the most
+0000a3c8-b54a-11e7-be27-8a2110004707	(308, 1634, 1807, 1704)	0783200600	3314258841	good	 bad shoeing; and wounds, or punctures, by cuts,
+0000d19a-b54a-11e7-be27-8a2110004707	(308, 1911, 1810, 1976)	0783200600	3314258841	good	 by the encrease of these sanious humours; the
+0000a010-b55b-11e7-9f41-86ae7ac82394	(161, 1069, 1123, 1115)	0769100404	3315280489	good	 errantry, which has the ascendant over all Spain,
+00007a2c-b55b-11e7-9f41-86ae7ac82394	(169, 676, 1129, 762)	0769100404	3315280489	good	 try. As for Regularity and Verisimilitude, 'tis no
+000050b0-b55b-11e7-9f41-86ae7ac82394	(174, 268, 1132, 313)	0769100404	3315280489	good	 with the happy Minute of putting a Period to
+00004c64-b55b-11e7-9f41-86ae7ac82394	(169, 224, 1132, 270)	0769100404	3315280489	good	 Years making Complaints, before he can meet
+0000d13e-b55b-11e7-9f41-86ae7ac82394	(152, 1555, 1116, 1601)	0769100404	3315280489	good	 very good and accurate Measures, yet still this I
+0000d648-b55b-11e7-9f41-86ae7ac82394	(151, 1601, 1115, 1646)	0769100404	3315280489	good	 will fay, that it hath nothing very extravagant
+0000d1ee-b582-11e7-93bc-86ae7ac82394	(109, 93, 1011, 147)	0864900100	3314657752	good	 wait on his Lordship, and to stick to the
+00007462-b59e-11e7-92d2-5ac0dbdb634b	(333, 1559, 1126, 1640)	0862600131	3315929502	good	 executed, that as they can hide indifferent sense,
+0000804c-b59e-11e7-92d2-5ac0dbdb634b	(48, 187, 1005, 232)	0862600131	3315929503	good	 sense, and a kind of associated pleasure arises from
+00007f4c-b5b8-11e7-a058-fe3074ac0733	(46, 683, 973, 721)	0874500604	3314805233	good	 parture; but, as foon as they were alone together, the
+0000ad04-b5c3-11e7-b7ab-22fc83a9b1b2	(146, 1123, 1197, 1178)	0902000401	3315091435	good	 Gums and Pomatums shall his flight restrain,
+00004d72-b5ce-11e7-9e6f-a222e0e7626d	(77, 369, 992, 407)	0912100102	3315153191	good	 relate it accordingly, and impose it as a truth upon the
+0000a7f4-b5ce-11e7-9e6f-a222e0e7626d	(79, 537, 993, 574)	0912100102	3315153191	good	 bore the name of Cyclops? No less an historian than
+0000d4e6-b5f5-11e7-a36e-d2b0f3d187e9	(117, 166, 762, 209)	1030702000	3316009590	good	 Shou'd I their justice call in question,
+000075fa-b5f5-11e7-87cf-c29579def9fa	(268, 949, 1287, 999)	1018100300	3315647786	good	 Controul. When their Reason begins to sparkle,
+00007dca-b5f5-11e7-87cf-c29579def9fa	(268, 997, 1287, 1049)	1018100300	3315647786	good	 they are led into the Drefling Room to be
+00009eea-b5f5-11e7-87cf-c29579def9fa	(266, 1189, 1286, 1239)	1018100300	3315647786	good	 which preserves and which repairs it; and thus
+00004814-b5f5-11e7-87cf-c29579def9fa	(266, 707, 1286, 757)	1018100300	3315647786	good	 too many young Ladies are brought up as if that
+0000ab0c-b617-11e7-b02f-d23ce44a722c	(121, 269, 1124, 322)	1083700900	3316190296	good	" ""c Parchments, wrote their Letters on squared"
+0000d6b4-b639-11e7-b1b9-261d45665e30	(294, 713, 1298, 769)	1171501200	3316647852	good	 Thought fit to give without much Pother,
+00007486-b683-11e7-a994-ae46d846ba23	(96, 358, 822, 400)	0982900400	3315460658	good	 in the invention, or discovery of truth.
+000079e2-ac90-11e7-bb3f-f6cf404cb848	(242, 1776, 988, 1880)	0005000202	3309086288	good	 assistance, giving himself any trouble abou
+0000d3ba-ac90-11e7-bb3f-f6cf404cb848	(135, 621, 1016, 680)	0005000202	3309086289	good	 would turn their arms against him with the
+00007972-aca1-11e7-8cf2-8a92c9cb39a5	(18, 253, 789, 305)	0016100501	3314662366	good	 three Miles. They got then all upon this Float, and
+00004e0c-aca1-11e7-8cf2-8a92c9cb39a5	(20, 212, 788, 264)	0016100501	3314662366	good	 their Prisoners; being distant from each other about
+00004902-aca1-11e7-a6d4-3adf0ba8ffac	(113, 138, 865, 178)	0017100102	3309670238	good	 AND now, having last night, and this morning,
+00007878-aca1-11e7-a6d4-3adf0ba8ffac	(78, 303, 869, 341)	0017100102	3309670238	good	 not think me insufferably tedious; and did not the
+0000a906-aca1-11e7-a6d4-3adf0ba8ffac	(80, 468, 871, 508)	0017100102	3309670238	good	 the more concerned, as my cousin himself seems not
+0000d520-acbf-11e7-bfb5-927414d214ed	(157, 1342, 962, 1530)	0048500200	3309505541	good	" "" me."" I readily gratified his curiosity,"
+0000d1e2-acbf-11e7-b054-36c3442de448	(78, 898, 970, 955)	0032900200	3309961491	good	 he had no Choice left, but to quit her for ever;
+0000cf5c-acc5-11e7-86e3-2eaf81f4e0f7	(16, 1379, 902, 1426)	0050100107	3309724412	good	 found Melancholy, which all the Court perceive, he
+0000d452-acc5-11e7-86e3-2eaf81f4e0f7	(17, 1428, 719, 1474)	0050100107	3309724412	good	 was obliged to confers that he was in love.
+0000a2a2-acc5-11e7-86e3-2eaf81f4e0f7	(17, 980, 899, 1030)	0050100107	3309724412	good	 pleased at the magnificent Treat that was given
+0000a798-acc5-11e7-86e3-2eaf81f4e0f7	(17, 1030, 898, 1080)	0050100107	3309724412	good	 you; spoke to me of your Person with the greatest
+00007656-acc5-11e7-86e3-2eaf81f4e0f7	(13, 536, 897, 585)	0050100107	3309724412	good	 fine Verses our Poets have repeated to him, I never
+0000755c-acc5-11e7-8c28-a2fb53a190a2	(61, 1451, 949, 1501)	0054600105	3310564125	good	 been cleft with a brown bill ; and many a time when
+0000ad00-acd0-11e7-8584-ba320057d2a2	(23, 1536, 921, 1582)	0050100101	3309723202	good	 am I Guardian then of the Virginity of all the Girls
+0000756a-acee-11e7-89df-a6ceb86e522f	(56, 1329, 849, 1371)	0089800501	3310084812	good	 crime, which though not very great in itself, would
+00004940-c8d8-11e7-9240-0aa98677277a	(165, 834, 1142, 903)	0000400202	3309402907	good	 there will be high playing, I woud not be put to a
+00007b68-c8d8-11e7-9240-0aa98677277a	(185, 1245, 1158, 1325)	0000400202	3309402907	good	 Crowns for that Chain which col me but Io. For
+0000aa72-ad01-11e7-818b-d63f3ae49b8c	(88, 1311, 752, 1353)	0096600202	3313478290	good	" "" Is fit, and only fit, to match with thine!"
+00007aac-ad01-11e7-818b-d63f3ae49b8c	(86, 1110, 902, 1151)	0096600202	3313478290	good	" "" Ourselves,, to do thee fame, will make the choice;"
+0000ab26-c8e0-11e7-8125-0aa98677277a	(120, 864, 936, 902)	0019100107	3309110016	good	 capitulated several enormities, in which, led on by false
+00007d68-c8e0-11e7-8125-0aa98677277a	(115, 586, 936, 627)	0019100107	3309110016	good	 <:f the evils I had brought upon others) and retiring, and
+00004be0-ad1f-11e7-b3e2-0e4a5c6cd577	(176, 1624, 920, 1667)	0129003101	3312049482	good	 teach him to use the wife of his bosom in
+00004b38-c960-11e7-8c8b-0a422494e514	(64, 761, 807, 796)	0110700600	3310199020	good	 and how lucky I had been for him: when I told them,
+000077ac-c960-11e7-8c8b-0a422494e514	(62, 1027, 805, 1066)	0110700600	3310199020	good	 a mind to any thing of that kind it should be all his own
+00009e44-c960-11e7-8c8b-0a422494e514	(57, 1293, 802, 1331)	0110700600	3310199020	good	 away Thirty Guineas. besides about 43, which I had
+0000aa9c-c960-11e7-8c8b-0a422494e514	(91, 1404, 802, 1443)	0110700600	3310199020	good	 Thus I brought Home 73 Guineas, and let my old
+00003068-adc6-11e7-b2bc-f6f752d716ac	(196, 1297, 1030, 1396)	0295600110	3311359582	good	 opinion. A certain Grecian youth was a great imitator
+00003072-b4ba-11e7-b582-960818c7550d	(86, 1354, 857, 1409)	0559300102	3313238897	good	 not so good perhaps, yet more sagacious, who
+00003160-b5d4-11e7-ba46-c24e6d42ace6	(238, 736, 1291, 782)	0920000300	3315200073	good	 Sir Geo. Those are Pamphleteers, Pedagogues, and
+000031e8-b50b-11e7-aec4-aa5314733147	(70, 1169, 766, 1214)	0633000605	3313627043	good	 as ashes to the door, to take his mourning
+000033a6-ad7b-11e7-83a1-1623dfa2d91f	(98, 888, 735, 929)	0226300101	3316302742	good	 With beating hearts the dire event they wait,
+00003458-b5c0-11e7-8619-a2731ac939f3	(208, 591, 1130, 628)	0881300105	3315720333	good	 Sur. The Lord increase this business! [lide.
+00003486-ad9f-11e7-b92a-56c06c6829bf	(86, 913, 995, 968)	0263400200	3312070535	good	 your Jealousy ? What have you done to me !
+00003608-b5f5-11e7-87cf-c29579def9fa	(267, 610, 1285, 661)	1018100300	3315647786	good	 Soul. This dogmatical Absurdity might be
+000036ba-c975-11e7-8e58-0aa0c17a5110	(75, 1648, 792, 1700)	0212101100	3310721600	good	 No Grass the Fields, no Leaves the Forests wear,
+000036f8-b5f5-11e7-a074-c6437b0bcdd6	(59, 183, 1087, 233)	1018101900	3315995618	good	 five with him, and to give Chace to an Opinion
+0000380c-b41e-11e7-a620-fedc0d2a5942	(64, 511, 705, 558)	0363100703	3311831283	good	 On the earth it till; the partner of her fears.
+0000393c-b4ba-11e7-b582-960818c7550d	(89, 1409, 857, 1465)	0559300102	3313238897	good	 continued still to cry out against it as loudly as
+00003972-b4de-11e7-8ac0-6e7d22024e7f	(112, 640, 867, 677)	0569000100	3313280951	good	 accident hear her cries, and tout a fait, rescue her.
+0000397e-ad48-11e7-952b-4610deb541fc	(184, 806, 927, 858)	0157400110	3310434999	good	 Wild. Upon my word, Sir, you must beat me,
+0000398c-ac90-11e7-bb3f-f6cf404cb848	(91, 1326, 979, 1384)	0005000202	3309086288	good	 himself necessary, sent fresh legions into
+00003c0e-b4d1-11e7-9155-6e7d22024e7f	(70, 579, 860, 627)	0559300103	3313359090	good	 a Hurry, and the Publication of them required
+00003c96-aca1-11e7-a6d4-3adf0ba8ffac	(79, 1741, 817, 1817)	0017100102	3309670237	good	 endeavour to flop such a mouth as that. AN
+00003cf2-b5f5-11e7-87cf-c29579def9fa	(264, 659, 1284, 707)	1018100300	3315647786	good	 easily confuted; yet with Concern I tell it, that
+00003d98-b4a0-11e7-8511-e6cff5fe316c	(162, 631, 873, 690)	0482100503	3312892554	good	 might come and dissuade the poor girl from
+00003e18-ad1d-11e7-b3e2-0e4a5c6cd577	(125, 1405, 896, 1464)	0128002600	3311928002	good	 eighteen years old; it was necessary she
+00003ee8-ad1f-11e7-b3e2-0e4a5c6cd577	(178, 1565, 919, 1604)	0129003101	3312049482	good	" Mrs. Tone "" Let me come at him ! I'll"
+00003f7a-c975-11e7-8e58-0aa0c17a5110	(44, 1723, 709, 1778)	0212101100	3310721600	good	 A hilly Heap, seven Cubits deep in Snow, .
+00003f9e-ad9f-11e7-b92a-56c06c6829bf	(87, 973, 994, 1025)	0263400200	3312070535	good	 replied the Duke, fill to add Impudence to
+000062c4-b486-11e7-9563-e66f85527e41	(95, 1363, 869, 1407)	0485100600	3312926627	good	 and voluntarily undertakes the defence of another
+00006366-c960-11e7-8c8b-0a422494e514	(63, 912, 805, 950)	0110700600	3310199020	good	 but he would not take it till I had put my Hand into it,
+000063c6-ad8a-11e7-b109-1623dfa2d91f	(34, 847, 717, 895)	0227101001	3310781127	good	 When to his Den he hurries her by Force,
+000063d2-ad10-11e7-b23a-b2fa2c7d5836	(129, 598, 584, 625)	0110702200	3310200736	good	 If he had any faults, he has left us in doubt,
+00006414-acbf-11e7-a5bc-a2fb53a190a2	(44, 424, 856, 477)	0036400201	3309267917	good	 In which the gentleman descants on bravery and
+00006436-b59e-11e7-92d2-5ac0dbdb634b	(214, 1508, 1129, 1551)	0862600131	3315929502	good	 Yet so great is the force of founds well chosen and
+000064a8-b4fa-11e7-b6b5-42de12ea68a8	(44, 1744, 846, 1788)	0605400700	3313932457	good	 rus were always feasted; whereas if they are supposed to
+0000650c-acee-11e7-89df-a6ceb86e522f	(56, 1287, 851, 1329)	0089800501	3310084812	good	 the direction of the ministry, charged him with a
+0000655a-b55b-11e7-9f41-86ae7ac82394	(170, 489, 1131, 531)	0769100404	3315280489	good	 Affair of Marriage is to be Treated with the
+00006636-b5ce-11e7-9e6f-a222e0e7626d	(77, 408, 992, 447)	0912100102	3315153191	good	 credulity of the ignorant: it is notorious that things
+00000f68-b486-11e7-be75-b6ce560b292a	(66, 1092, 811, 1133)	0450800501	045080050102280.TIF	bad	 Hunc.tamen indignum numero coetuque piorum.
+000010c8-c98d-11e7-8664-0ad2516613d6	(37, 1062, 1202, 1117)	0374400102	037440010202870.TIF	bad	 h. a're Priince Metizi;, aid' the' iutchiefs of Mira'ndo/a -- He backed -his
+000011c8-c9a5-11e7-9808-0a8caf7809d4	(46, 561, 998, 601)	0436600600	043660060001840.TIF	bad	 tenti a me defuit, quod effet aut ab amico, aut . gratiofo, aut a
+00001332-b50d-11e7-ab93-42de12ea68a8	(492, 1679, 1386, 1719)	0635900104	063590010401350.TIF	bad	 lato ha fpade, e graffi, e picche, e accette.
+00001604-b623-11e7-9728-7267471f938d	(149, 657, 947, 703)	1140301500	114030150000020.TIF	bad	 N rS~,dom tnir City: 2,,, r'cng Vnari Maid,
+00001648-adb5-11e7-a643-5a3dc6a511a7	(33, 1416, 848, 1456)	0304600200	030460020000420.TIF	bad	 defunt exempla quorum non- Vide senecam Herc. Fur. vf
+0000188c-bda5-11e7-bb1f-0a9e45c799ec	(170, 797, 1093, 833)	0176500200	017650020004230.TIF	bad	 Tl11, or power to d fiometiling natural cr difpolition, fevcrity, unmercifulncfi, flrp.
+00001900-b683-11e7-9eae-766ec2bf3134	(48, 1394, 1610, 1442)	0983300600	098330060000020.TIF	bad	 liuliicnc of your fame, no frnall nourilnm.ent and (upport ; your l.iurcs will, (contrary to
+00001948-c9a5-11e7-9808-0a8caf7809d4	(45, 601, 1042, 643)	0436600600	043660060001840.TIF	bad	 confule poftulandum ; abiit illud tempus: mutata ratio est: sic 25
+00001bf6-b4a0-11e7-81aa-ca0c869fe52d	(71, 1264, 933, 1314)	0534400102	053440010201440.TIF	bad	 l' lacrity and good sense, with \hich file perform-
+00001c0c-b43f-11e7-80f4-821bc098331d	(92, 1146, 512, 1171)	0381300402	038130040201160.TIF	bad	 Pa.ndit defctli hli. fr,'t tctria v'ris.
+000040a0-adb5-11e7-a643-5a3dc6a511a7	(75, 1523, 856, 1557)	0304600200	030460020000420.TIF	bad	 roqci meo veni f!rplex tibi, iiil ut le comnmodis fuis cogi-
+0000412a-c9a5-11e7-9808-0a8caf7809d4	(48, 886, 1001, 927)	0436600600	043660060001840.TIF	bad	 tiam alieniflimos defendamus. Mihi autem cum Murena, Ju-
+000042da-b486-11e7-9563-e66f85527e41	(89, 1234, 868, 1319)	0485100600	048510060000690.TIF	bad	 patris.) � COGNITOR. . Cognitor properly signifies one
+00004404-b46a-11e7-8ab0-7e6134dda259	(40, 932, 962, 990)	0424901900	042490190001200.TIF	bad	 ' O'ermatch'd in Pow'r at last, I'm forc'd to yield,
+000044c4-ca3e-11e7-ac21-0a1780af9650	(633, 793, 1167, 846)	0484300601	048430060102190.TIF	bad	 cerificrs. CERISE. .f. iar. Cer.lfr-t. angl. cherry. Petit
+00004648-c9a5-11e7-9808-0a8caf7809d4	(49, 928, 1002, 971)	0436600600	043660060001840.TIF	bad	 dices, & vetus, & magna amicitia est, quae in capitis dimicatione
+0000481c-b683-11e7-9eae-766ec2bf3134	(35, 1605, 1602, 1651)	0983300600	098330060000020.TIF	bad	 he fecn in cromn9o;ny with youlr's by !artc pIoiilt ' ; your's, my Lord, carn die bult with
+362d6746-b56e-11e7-8967-36f452166d2e	(118, 927, 1155, 987)	0814300400	081430040000700.TIF	bad	 Quel ch' uomin far poteano, � gi� fatto.
+362d67d6-ad81-11e7-9a23-4affa0f6fd55	(64, 113, 657, 164)	0229000108	022900010801520.TIF	bad	 atqi:e ci!lti , terminatur pecuaii modus.
+362d67f6-ca85-11e7-b241-0a1780af9650	(226, 613, 1723, 691)	0608300203	060830020301330.TIF	bad	 w ru <'p t.fs ', I(9t TWS %'Lp /J' wecEi' J)cu'' & u-I
+362d6c5c-ad74-11e7-8072-d6af0842ad95	(123, 1434, 899, 1476)	0199300500	019930050003360.TIF	bad	 Tafod yr edn leiaf, ,pi- wild agrimony, wild
+362d6d6a-ad3d-11e7-989e-561593fd185e	(242, 824, 843, 874)	0150300101	015030010101440.TIF	bad	 ER e eearutio poetr in Academia LipfiG publicis ledio.
+362d6e34-ad18-11e7-b41e-6658d2e7a10d	(170, 570, 1259, 626)	0118800800	011880080000090.TIF	bad	 Rev. Mr CharlesHoaloway, Chaplainfto le 'Englih Sac
+362d6e90-ca85-11e7-b241-0a1780af9650	(189, 699, 1732, 768)	0608300203	060830020301330.TIF	bad	 7Aasx, Xi vuv^ ^ro9wxw 6 ^ytV. 4 TIOVJ ga� TOaWT ow Toy
+362d6efe-b563-11e7-9a21-9a0318a35ce7	(78, 469, 945, 510)	0818000202	081800020202790.TIF	bad	 mother's fide, and Philip of Valois took posses-
+362d703c-ad09-11e7-92c9-6658d2e7a10d	(157, 1163, 943, 1212)	0110102500	011010250001540.TIF	bad	 rum genus cuique caufarum gcncri maxinme con-
+362d74b0-ad09-11e7-92c9-6658d2e7a10d	(158, 1211, 941, 1259)	0110102500	011010250001540.TIF	bad	 veniat, non est artis exquifite prxfcriber,. sed el
+362d74e6-bdae-11e7-bb1f-0a9e45c799ec	(35, 363, 1091, 398)	0191400200	019140020006000.TIF	bad	 ict,, dtrt, ee. Difim, S. Deifme. Deliberation, S. Dclbratio,
+362d7656-b5b3-11e7-ae6f-76458c9e4d54	(142, 1607, 1003, 1673)	0885800102	088580010203320.TIF	bad	 ime, thIcn think it much to hear nmy groa ? Abn.
+362d7768-ada3-11e7-8311-7af974c161df	(48, 1388, 927, 1432)	0272300106	027230010600930.TIF	bad	 1blc fir liir:zing them too with my ceited tieps, (for Ilat is tile fear whicth
+362d79b0-ad09-11e7-92c9-6658d2e7a10d	(159, 1257, 945, 1306)	0110102500	011010250001540.TIF	bad	 mediocris ingenii judicare. Nequc cnim nunc id
+362d7a90-bdae-11e7-bb1f-0a9e45c799ec	(53, 396, 895, 427)	0191400200	019140020006000.TIF	bad	 To desy, y.4. Defier, fJre Deii, S. Deifie. conjirttion.
+362d7b38-ca85-11e7-b241-0a1780af9650	(186, 841, 1661, 914)	0608300203	060830020301330.TIF	bad	 TaOv' br&�g fOIvs^4tC v71UcLg Izcrc v/4Y, G�x cgsos asrS '
+362d7c42-b517-11e7-9acd-aa5314733147	(252, 950, 2061, 1003)	0695400100	069540010000330.TIF	bad	 found in the place; nor is the ozurce of the Scamander there, but' in the moun-
+362d7cce-ad3d-11e7-989e-561593fd185e	(217, 856, 846, 906)	0150300101	015030010101440.TIF	bad	 nibus faRa. Berfmuanou tum Gymnaflo ServC no illuRri pre.
+362d7e06-ad09-11e7-92c9-6658d2e7a10d	(162, 1302, 947, 1354)	0110102500	011010250001540.TIF	bad	 agimus, ut artem aliquam dicendi explicemus, sed
+3631385a-ad92-11e7-a1fd-ba9d9623cb95	(66, 1065, 856, 1116)	0263400900	026340090000580.TIF	bad	 Fit Senatus coljfltum, ltt Vedilus, qudd con7effits
+363139bc-ca85-11e7-b241-0a1780af9650	(176, 494, 1724, 561)	0608300203	060830020301370.TIF	bad	 XcCa7cAvwo T$�, TEc werrENxoOI Wseiv'/ S. S6 OYp Satr TOVTO0 OTn
+36313a06-b56e-11e7-8967-36f452166d2e	(343, 285, 1665, 349)	0814300400	081430040000730.TIF	bad	 Tbe Streigbts to .wbich yoa're drvu'n ; and as be kaow's
+36313a78-ad09-11e7-92c9-6658d2e7a10d	(30, 518, 842, 565)	0110102500	011010250001570.TIF	bad	 rvbori:m comltas: si quiid pC:U;quare acritus, ut
+36313aee-b436-11e7-bd42-7afe6d3a1c6a	(133, 593, 963, 636)	0376300500	037630050000960.TIF	bad	 N'ont jamais, de quelque air queje m'y fois ps prendre,
+36313b90-ad81-11e7-9a23-4affa0f6fd55	(98, 1211, 695, 1248)	0229000108	022900010801540.TIF	bad	 leur donna ; &e s'ils �toient Philofophes, qu'il le
+36313cba-ad92-11e7-a1fd-ba9d9623cb95	(143, 1112, 857, 1163)	0263400900	026340090000580.TIF	bad	 /j/it fe cumn telo fiije, in vincila col2iceere-
+36313d02-c8b6-11e7-9387-46407aefa844	(148, 1061, 1192, 1115)	0911800900	091180090000410.TIF	bad	 tcha. Fakadychm jyhuyn bassamaj yndalach-
+36313d08-b4c4-11e7-83e2-52e56525f034	(230, 489, 1004, 527)	0561902402	056190240200150.TIF	bad	 srl etling-rom, fo'...../-e, ,.i .,',, a 'i h tjftflcon of
+36313ee2-ad09-11e7-92c9-6658d2e7a10d	(30, 561, 841, 602)	0110102500	011010250001570.TIF	bad	 invitus & co.:LOus f'.cc:c vi(d'.uC. Faciliatis, li-
+36313f70-ca85-11e7-b241-0a1780af9650	(176, 559, 1695, 633)	0608300203	060830020301370.TIF	bad	 TwE5 XOeHvA vpwA d7rcw7ea TovrV I c vEsP rX-Pi wT Aj^, ovA
+3631400c-b472-11e7-a11f-a2150c8c35e5	(52, 1168, 913, 1215)	0433600700	043360070001900.TIF	bad	 repent. avoir quitt�, ,y havingg quited. premier, firf. at-
+36314022-adbd-11e7-9904-be7e822b398b	(61, 1161, 782, 1214)	0295901000	029590100000170.TIF	bad	 r jude 14, i. IDeut. xxxii. 4, 5, 6; Ezek; xXiiisj
+363141ec-ad92-11e7-a1fd-ba9d9623cb95	(124, 1157, 859, 1209)	0263400900	026340090000580.TIF	bad	 tlur: qui acnifJit, contra rempublicam cefc
+36314342-ad09-11e7-92c9-6658d2e7a10d	(32, 607, 841, 655)	0110102500	011010250001570.TIF	bad	 bcrjlira:is,m.infueti(uinis, picr.ti4, gr.ti anilmi, non
+36314518-b47f-11e7-a70c-62657c6670da	(89, 124, 762, 158)	0464500201	046450020100980.TIF	bad	 ' aye, happy in any situation,' anfivercd Mis Mat-
+36314680-ad09-11e7-92c9-6658d2e7a10d	(32, 653, 842, 708)	0110102500	011010250001570.TIF	bad	 :ppc:enrti, non .:vlid. fin:na prof'rri pcru:ilc ct; ca-
+363146d4-ace7-11e7-8fc8-6ac4a15efaf1	(60, 1601, 863, 1628)	0088500303	008850030301270.TIF	bad	 Ilere he recommendeth the trse Form of Government, which is-
+36314836-b436-11e7-bd42-7afe6d3a1c6a	(133, 639, 767, 671)	0376300500	037630050000960.TIF	bad	 Adouci leur rudeffe a me vouloir entendre.
+3625edc8-ca85-11e7-b241-0a1780af9650	(177, 2112, 932, 2154)	0608300203	060830020301250.TIF	bad	 quam autem nemo est, qui se dicat in hac
+3625ef60-ad09-11e7-92c9-6658d2e7a10d	(47, 682, 837, 729)	0110102500	011010250001490.TIF	bad	 paucts : nan omrnino har . placet. Scd tanmen hac
+3625f1e6-b56e-11e7-8967-36f452166d2e	(209, 1056, 1361, 1117)	0814300400	081430040000660.TIF	bad	 No: leviamoci a un tratto: fuor tragghiamo
+3625f282-ca85-11e7-b241-0a1780af9650	(176, 2149, 931, 2196)	0608300203	060830020301250.TIF	bad	 ciuitate vnquam de quoquam audiuiffe, qui
+3625f28c-be0a-11e7-bb1f-0a9e45c799ec	(449, 1979, 910, 2015)	0296700102	029670010202310.TIF	bad	 pi. m. In quibus dierum ominum ratio expoa-
+3625f3de-ad18-11e7-b41e-6658d2e7a10d	(68, 1534, 1171, 1588)	0118800800	011880080000020.TIF	bad	 Rev. and Hionble. Mr Allen Bathurst,. Fellow of Aew College
+3625f53c-ad09-11e7-92c9-6658d2e7a10d	(59, 729, 839, 780)	0110102500	011010250001490.TIF	bad	 'Ct mna fenien ia, quam vidcbar cxpoCuifsc; Ego
+3625f5ca-ca85-11e7-b241-0a1780af9650	(178, 2189, 932, 2232)	0608300203	060830020301250.TIF	bad	 tale facinus ausus fuerit ac perpetrarit. iste
+3625f68e-ad3d-11e7-989e-561593fd185e	(239, 1077, 867, 1126)	0150300101	015030010101400.TIF	bad	 mri apniuli, DoEtrinam facile agnorca: judicii fubtilia.
+3625f7dc-be0a-11e7-bb1f-0a9e45c799ec	(450, 2007, 909, 2040)	0296700102	029670010202310.TIF	bad	 nitur verim cam die fajki pluresfint nefaiis,
+3625f812-b56e-11e7-9fc6-8a2110004707	(162, 1481, 1130, 1601)	0834900400	083490040000680.TIF	bad	 O.dyjjey: Die mihi, Mufa, virum, capta: post tempora Troja,
+3625f93c-b5cf-11e7-858a-6e34a9d11379	(106, 1268, 859, 1309)	0912700300	091270030000130.TIF	bad	 ao what fblly eJicems, and the vulgar admite;
+3625f980-ca85-11e7-b241-0a1780af9650	(176, 2229, 929, 2269)	0608300203	060830020301250.TIF	bad	 tamen hoc non contentus, ctiam chori mei
+3625fa1e-ad09-11e7-92c9-6658d2e7a10d	(52, 776, 841, 829)	0110102500	011010250001490.TIF	bad	 ilta Itudia non improbo, moderata modo fint: opi-
+3625fc6e-be0a-11e7-bb1f-0a9e45c799ec	(449, 2033, 909, 2068)	0296700102	029670010202310.TIF	bad	 hinc appellab. I potiori parte, Fali.. Calendarn,
+3625ff00-ad09-11e7-92c9-6658d2e7a10d	(51, 824, 841, 875)	0110102500	011010250001490.TIF	bad	 nionem iftorm ftudiorumm, & fnfpicioncm artificii
+3625ff84-ca85-11e7-b241-0a1780af9650	(174, 1725, 1726, 2354)	0608300203	060830020301250.TIF	bad	 nisi Telephanes tibicen, fingulari probitate, mihi tur optime consultum voluiffet, frau-
+362601f4-b56e-11e7-9fc6-8a2110004707	(228, 1596, 1064, 1638)	0834900400	083490040000680.TIF	bad	 Qui mores Hominum Multorum vidit & Urbes.
+362602b0-bdae-11e7-bb1f-0a9e45c799ec	(430, 151, 1102, 2149)	0191400200	019140020005960.TIF	bad	 mnat des gages des dmejl'iqe. dn roi, de la folde de, orm j,
+36223854-ca85-11e7-b241-0a1780af9650	(947, 2259, 1701, 2305)	0608300203	060830020301210.TIF	bad	 vobis lex recitabitulr qua queri licet apud
+36223bee-ace7-11e7-8fc8-6ac4a15efaf1	(143, 1170, 947, 1198)	0088500303	008850030301200.TIF	bad	" The ancient Pa.n God, are F-e- erv e.""riv ierI:ibed. This"
+36223c0a-ca85-11e7-b241-0a1780af9650	(947, 2299, 1698, 2342)	0608300203	060830020301210.TIF	bad	 populum: deinde vos de rcliquis etiaml do-
+36223ca8-ad09-11e7-92c9-6658d2e7a10d	(143, 1378, 938, 1429)	0110102500	011010250001460.TIF	bad	 ut 5 se penitus infinuet in caufam, ut fit cura &
+36223eaa-b48a-11e7-9efc-faf8399e7d72	(89, 250, 701, 293)	0475500300	047550030000120.TIF	bad	 Rendi '1 mio corpo alla gran Madre antica,
+362240ac-b472-11e7-a11f-a2150c8c35e5	(177, 1035, 1036, 1078)	0433600700	043360070001860.TIF	bad	 orgueil, pride. n'�tes propre qu'�, are.fit owtl to. en-
+362240b8-bde9-11e7-bb1f-0a9e45c799ec	(586, 289, 1063, 357)	0239200302	023920030203320.TIF	bad	 * Ncgligcnce inattention i rcmilfnefr. Itod ero
+36224616-ace7-11e7-8fc8-6ac4a15efaf1	(145, 1204, 944, 1237)	0088500303	008850030301200.TIF	bad	 far is a ccrvinci:.e evicfre Gcfl h ;r.;h of h.' orsineal, which
+36224724-b4d5-11e7-b788-caa953280e0e	(39, 591, 855, 639)	0568500900	056850090000590.TIF	bad	 Semp. Curse on their Daltard Souls, they fland afto.
+36224874-ad09-11e7-92c9-6658d2e7a10d	(209, 1553, 938, 1590)	0110102500	011010250001460.TIF	bad	 Intra qau venire debea, 'it peTveft. vulg. intra qmti venirr, '
+36224966-be0a-11e7-bb1f-0a9e45c799ec	(1089, 1212, 1476, 1238)	0296700102	029670010202300.TIF	bad	 Qim miser virtutis famulatus, faeiefatio.
+36224ce0-be0a-11e7-bb1f-0a9e45c799ec	(1093, 1241, 1463, 1268)	0296700102	029670010202300.TIF	bad	 Juptati? Chc. Ocj. 3, 33. Famulatal gnti
+36224e3a-b517-11e7-9c59-267df2724016	(256, 1786, 1197, 1841)	0653601700	065360170000380.TIF	bad	 Zt/. Well, let a Man advire hqw he will, I -re you'Jl
+36224ed2-ad09-11e7-92c9-6658d2e7a10d	(141, 1586, 939, 1622)	0110102500	011010250001460.TIF	bad	 Frpvefgehs nos. ornn. prater Nov. qui inter qs vtenere, ( pro vmen-
+36225022-ada3-11e7-86cd-3676c7a77d29	(124, 1563, 870, 1608)	0282300300	028230030003390.TIF	bad	 Verba redargueret. nomen tamen haud leve patrum
+362251ec-ace7-11e7-8fc8-6ac4a15efaf1	(144, 1245, 944, 1273)	0088500303	008850030301200.TIF	bad	 the poeth Zivcth ;o SuPtrflit;on; for if thele hi:n:rnrs iwere
+362254ec-ca85-11e7-b241-0a1780af9650	(591, 424, 2136, 465)	0608300203	060830020301220.TIF	bad	 NEIZ IIOIEIN EKKAH�IAN EN AIONTOT THI TETEPAIAI EN
+362258a0-ad09-11e7-92c9-6658d2e7a10d	(144, 1620, 940, 1657)	0110102500	011010250001460.TIF	bad	 nri glolfc.) & ferveftiga. alli aliter. % Inqiam, qji cum oRnl-
+36225924-ca85-11e7-b241-0a1780af9650	(589, 497, 2135, 532)	0608300203	060830020301220.TIF	bad	 IIANAIOIE EN AE TATTHI XPHMATIZEIN IIPaTON MEN nEPI IE-
+361a7fb2-b471-11e7-b06e-121737acbca9	(59, 1168, 865, 1201)	0430401300	043040130001010.TIF	bad	 tach�e fous notredit contre-Scel, & de le faire vendre & d�biter
+361a8196-bde6-11e7-bb1f-0a9e45c799ec	(1107, 2129, 2155, 2173)	0243600100	024360010003130.TIF	bad	 fupply.-Not to affill; to negle&t; to omit to help.-'bo
+361a819a-ca85-11e7-b241-0a1780af9650	(183, 1648, 952, 1683)	0608300203	060830020301150.TIF	bad	" ao-e'Esxv, a4rviOVT'ai SE vw EV SN xt"""" 'WEl"
+361a839a-b5b1-11e7-a128-22fc83a9b1b2	(115, 1399, 1326, 1437)	0877700600	087770060000940.TIF	bad	 .309 Le Nouv. Test. et les Pfeaumes de David -- 1658
+361a8632-ad3d-11e7-989e-561593fd185e	(235, 655, 864, 694)	0150300101	015030010101360.TIF	bad	 exematariYm pam diligertifm rejitaa. Lugduni per Scb..
+361a8782-bdae-11e7-bb1f-0a9e45c799ec	(170, 1437, 1125, 1473)	0191400200	019140020005910.TIF	bad	 /Bu, )~fell) Trees, lAba.r: cu corrprr Dijf r iner m corps, e faire la
+361a8928-ada3-11e7-95d7-dafae9391ab6	(152, 880, 852, 930)	0268100202	026810020202280.TIF	bad	 lniaL 'y y. ury- andlhe Laws .compell't ,
+361a89e8-ad74-11e7-8072-d6af0842ad95	(165, 802, 906, 842)	0199300500	019930050003300.TIF	bad	 efl hbnde:Jatvrioni . Llyfiau ievan, y seidd.
+361a8a96-ca85-11e7-b241-0a1780af9650	(171, 1689, 1720, 1748)	0608300203	060830020301150.TIF	bad	 7ywp TraryO5TO; T7i lSa, TO SxOa^SOlV KPHgi SEresov. E5v v o' dO av WEg; v7ra-
+361a8c46-b51b-11e7-99e1-5e71f0b54a1b	(193, 974, 946, 1017)	0660300300	066030030000090.TIF	bad	 of tie co;iimon law. He vwas of:te pe-:; i'ic',
+361a8de2-acb8-11e7-86c1-8e0eccad500d	(40, 334, 869, 431)	0027300102	002730010201760.TIF	bad	 difficulty?' 'Contemptible wretc, !' cried I, v ith a warmth
+361a9220-ca85-11e7-b241-0a1780af9650	(170, 1750, 1718, 1793)	0608300203	060830020301150.TIF	bad	 7TqA s-ews. g 7Xp Erv; Tg 4FsvO aciXEiv O MESS;a` aviEwsal, aAxa WrE; TV T71J-
+361a9392-c819-11e7-85ea-2e90a3b9f2ba	(59, 1276, 693, 1319)	0346200702	034620070202150.TIF	bad	 And the lhip.moor'd, conflrains the.crew tbland:
+361a972c-bdae-11e7-bb1f-0a9e45c799ec	(106, 1498, 1117, 1538)	0191400200	019140020005910.TIF	bad	 otis, Le droit commnn, le wvound,)aBefrr.fJairm:iblej;orr, To cut down, Coaper, fier
+361a9816-b463-11e7-b40a-a27e09ac0700	(168, 1238, 922, 1282)	0430500503	043050050300230.TIF	bad	" 'in theWoirld,; --wh"" -wiulid ffolliit her i'Com"
+361a991a-ad74-11e7-8072-d6af0842ad95	(127, 839, 907, 883)	0199300500	019930050003300.TIF	bad	 Llyfiau 'r fuddau, dry- ioglwyd,feamug-wort,
+361a99c8-ca85-11e7-b241-0a1780af9650	(175, 1791, 1685, 1850)	0608300203	060830020301150.TIF	bad	 tzaTof, roTepeov bpegES, 4 dctrecEa osiPE;6Eg SI'MxV. opcos S' o 0oyo; T7 7Ei ;I
+361a9b32-b471-11e7-b06e-121737acbca9	(58, 1270, 866, 1305)	0430401300	043040130001010.TIF	bad	 d�fenfes � toutes fortes de perfonnes, de quelque qualit� & con-
+361e62ea-ad09-11e7-92c9-6658d2e7a10d	(168, 1719, 944, 1752)	0110102500	011010250001420.TIF	bad	 cunda m2nu ex veteri pratere.. 6 Es tamen ipsa oratione rtferantar 0
+361e6852-bdae-11e7-bb1f-0a9e45c799ec	(296, 1038, 1066, 1088)	0191400200	019140020005930.TIF	bad	 de petite m noyeqC ai avoir cours rn dfi, afprller ai cot:lat, pro.
+361e6892-bde6-11e7-bb1f-0a9e45c799ec	(16, 2669, 1000, 2731)	0243600100	024360010003150.TIF	bad	 alred fpr a fccond aration.--Unplowed ; uncultivated.-
+361e69e8-ad09-11e7-92c9-6658d2e7a10d	(223, 1751, 955, 1806)	0110102500	011010250001420.TIF	bad	 efl Joan. ipsa rarione refeidantur necefe eji Mag. l E1
+361e6a1c-be0a-11e7-bb1f-0a9e45c799ec	(90, 412, 1049, 446)	0296700102	029670010202300.TIF	bad	 c;.:s ;: ferl:e, tr. L.; S. 36. (:) = c: dre frrc tur, Yig. (4) Ex tsrre fami
+361e6b36-ace7-11e7-8fc8-6ac4a15efaf1	(210, 1041, 959, 1071)	0088500303	008850030301180.TIF	bad	" VER. 241. tbo frf tslbt Fil: t :1iwv'J, e""r.) Order ead-"
+361e6c52-ad3d-11e7-989e-561593fd185e	(241, 841, 868, 878)	0150300101	015030010101380.TIF	bad	 quam diligentiflime correfum et mendatum in Epilola ad Chr;
+361e6e86-ca85-11e7-b241-0a1780af9650	(805, 701, 2028, 762)	0608300203	060830020301180.TIF	bad	 7 O-EUTEoOS 'p, I, AUtXIss ea, v ol,� 'tplo: *o,'v . T~OSos,
+361e6fec-ad09-11e7-92c9-6658d2e7a10d	(30, 136, 821, 184)	0110102500	011010250001430.TIF	bad	 clufas defcribunt in perfonis & in temporibus
+361e7438-ad09-11e7-92c9-6658d2e7a10d	(30, 183, 822, 233)	0110102500	011010250001430.TIF	bad	 pofitas esse. Nam ctfi incurrunt tempora & per-
+361e7822-be0a-11e7-bb1f-0a9e45c799ec	(266, 442, 1048, 470)	0296700102	029670010202300.TIF	bad	 Os, id eft, cfid, si rli c:a, Gria hc: collecLa funt, C:. N. D. 3, a3.
+361e78aa-ad74-11e7-8072-d6af0842ad95	(148, 364, 885, 409)	0199300500	019930050003320.TIF	bad	 wort, far-wort, flea- Meddvgyn, y feddyge?,
+361e7986-b57b-11e7-923b-3a4898d2abfd	(174, 907, 1038, 946)	0856000202	085600020200080.TIF	bad	 cufrs ofCten ubllitled in place of the rcal motives,
+361e79d8-ad81-11e7-9a23-4affa0f6fd55	(22, 721, 605, 778)	0229000108	022900010801430.TIF	bad	 Galba fous l'Empire de Neron, in defidiamJsgni-
+361e7cac-bdae-11e7-bb1f-0a9e45c799ec	(40, 1091, 1074, 1152)	0191400200	019140020005930.TIF	bad	 :tpT, spprrter du donsminge, * t Dandiprar, (a little Man To dare dangers, trave7r cU
+361e7e6a-ad09-11e7-92c9-6658d2e7a10d	(31, 277, 821, 333)	0110102500	011010250001430.TIF	bad	 gencre qusftionis pendcre causas. Scd hoc nihil
+361e81e6-be0a-11e7-bb1f-0a9e45c799ec	(88, 464, 911, 498)	0296700102	029670010202300.TIF	bad	 c-.ris.tai T- z , fir falria Clcdrun, Ci.. e Fame in plr. PFlor. solus.
+361e82ac-ad09-11e7-92c9-6658d2e7a10d	(31, 325, 822, 372)	0110102500	011010250001430.TIF	bad	 ad me; nullum enim nobis ccrtamcn cum iftis eflc
+3629adfc-b552-11e7-9260-86ae7ac82394	(115, 210, 951, 245)	0793800402	079380040201600.TIF	bad	 ' sion, qutiltionic'lls, you would rathir . lecrifice your ii:.,
+3629b09a-bdc2-11e7-bb1f-0a9e45c799ec	(566, 929, 1027, 960)	0212400601	021240060104970.TIF	bad	 � 16l. Direrisrns fr reading the Cl.j,.'.
+3629b282-ca85-11e7-b241-0a1780af9650	(164, 1790, 916, 1832)	0608300203	060830020301290.TIF	bad	 habeo, istum turn fuiffe dicturum. rei enim,
+3629b300-ad92-11e7-a1fd-ba9d9623cb95	(82, 733, 870, 781)	0263400900	026340090000500.TIF	bad	 Oluid ~facercs pro hominie innoccnte & propinquo,
+3629b482-b552-11e7-9260-86ae7ac82394	(115, 243, 943, 274)	0793800402	079380040201600.TIF	bad	 � th:n contl}nt to dil'avcw thele tentiments which, up.
+3629b584-ca85-11e7-b241-0a1780af9650	(163, 1833, 914, 1874)	0608300203	060830020301290.TIF	bad	 opinor, et fontis est, certum iudicii modum,
+3629b692-be0a-11e7-bb1f-0a9e45c799ec	(264, 1022, 1397, 1051)	0296700102	029670010202320.TIF	bad	 , i. =tic, perfofionilfqe p enos cnla fato agi, profpcr, Citc. G Horribilis, IdA
+3629b760-ad92-11e7-a1fd-ba9d9623cb95	(145, 779, 872, 828)	0263400900	026340090000500.TIF	bad	 cu!t7 proptor hom0inem perdtitfimuml atque
+3629bab2-ad92-11e7-a1fd-ba9d9623cb95	(143, 824, 869, 874)	0263400900	026340090000500.TIF	bad	 alieniffimum de offcio ac dignitate decedis.
+3629bac6-b472-11e7-a11f-a2150c8c35e5	(105, 802, 967, 847)	0433600700	043360070001880.TIF	bad	 f.Ke fiai!e:rs. �blouirtnt, dazz!kd. voyez, fie. quelle,
+3629be64-ace7-11e7-8fc8-6ac4a15efaf1	(133, 1291, 877, 1319)	0088500303	008850030301230.TIF	bad	 VER. 295. Surh is the ira orld'gr Lt Iarmoay. yer.) lHaving
+3629bf20-be0a-11e7-bb1f-0a9e45c799ec	(136, 1049, 1476, 1081)	0296700102	029670010202320.TIF	bad	 Fl-uionss. t. lonart v eSab , fed innctis, S 7. . Eo. (4) Qpimos ego confido impen- Faotor, oris. m. vel,. [j faes] Afr...
+3629c0f6-ca85-11e7-b241-0a1780af9650	(164, 1951, 919, 1990)	0608300203	060830020301290.TIF	bad	 nullus est: fapientis autem iudices decet, et
+3629c174-ad92-11e7-a1fd-ba9d9623cb95	(83, 933, 870, 979)	0263400900	026340090000500.TIF	bad	 Quibus ego si quam iiedicinaml invenirem, tibi
+3629c4d6-b552-11e7-9260-86ae7ac82394	(113, 311, 950, 345)	0793800402	079380040201600.TIF	bad	 � preltnit the defirc ot continuing near rme, obliges you to
+3629c4fc-ca85-11e7-b241-0a1780af9650	(163, 1989, 917, 2031)	0608300203	060830020301290.TIF	bad	 haec non audire, et quemcunque petulanter
+3629c9ce-b541-11e7-bec1-624a3ce779b6	(53, 1674, 970, 1723)	0731001200	073100120003880.TIF	bad	 Then Drances ipfitefill even to TLtrnhi niame,
+3629cac4-ca85-11e7-b241-0a1780af9650	(163, 2069, 915, 2109)	0608300203	060830020301290.TIF	bad	 ercere. ne igitur eun dicere finatis, priuata
+3629cb02-b552-11e7-9260-86ae7ac82394	(114, 344, 950, 379)	0793800402	079380040201600.TIF	bad	 ' ly this conftl.rint upon yourl.llt' howvcvel, you know
+362d80b8-b47f-11e7-a70c-62657c6670da	(100, 1071, 772, 1112)	0464500201	046450020100960.TIF	bad	 in truti, he waged uin;qual war. � Ie was, belides,
+362d827a-ad09-11e7-92c9-6658d2e7a10d	(164, 1351, 949, 1400)	0110102500	011010250001540.TIF	bad	 ut do&tiifimis hominibus usus nostri quasi qut-
+362d8614-be0a-11e7-bb1f-0a9e45c799ec	(14, 1556, 394, 1595)	0296700102	029670010202330.TIF	bad	 ' ta& [ipfb hmo.pttel; Cic. po Ltpg.Manil.
+362d8674-ad92-11e7-a1fd-ba9d9623cb95	(8, 1745, 827, 1793)	0263400900	026340090000540.TIF	bad	 the following clause: Con:r' j:/es L.js s Couis:uud.:cs cf
+362d86f8-ad09-11e7-92c9-6658d2e7a10d	(163, 1399, 951, 1482)	0110102500	011010250001540.TIF	bad	 dam 5 monita tradamns. His igitur locis in mente, - &
+362d8756-bdae-11e7-bb1f-0a9e45c799ec	(52, 455, 1093, 494)	0191400200	019140020006000.TIF	bad	 D.Sy'd, A. D.VF', br. div.-te'i, refire divinc. Delicacy, (or Dainrinefs,)
+362d8ac4-be0a-11e7-bb1f-0a9e45c799ec	(4, 1920, 379, 1967)	0296700102	029670010202330.TIF	bad	 I it. SFinla aia'feliciiate, qoam virtutoe;
+362d8ac8-b56e-11e7-9fc6-8a2110004707	(247, 1729, 960, 1775)	0834900400	083490040000700.TIF	bad	 Tle furious Cbief frill follors as as eflies.
+362d8ad8-ca85-11e7-b241-0a1780af9650	(185, 975, 1680, 1054)	0608300203	060830020301330.TIF	bad	 y�aT~f @-?5 �reTor cwrvDS ,; O'A AncC x 5 Th7ro T7VOV
+362d8c70-b47f-11e7-a70c-62657c6670da	(101, 1106, 772, 1143)	0464500201	046450020100960.TIF	bad	 tuiiniiling to incen!c Nlil's Matthews, whom lie exipca t
+362d8dd2-bdae-11e7-bb1f-0a9e45c799ec	(52, 486, 1096, 524)	0191400200	019140020006000.TIF	bad	 Defying, S. L'aHio de de- e' (a fabulous God,) U e Delcatere,friandife. (orBeau-
+362d9288-ad09-11e7-92c9-6658d2e7a10d	(265, 1523, 951, 1557)	0110102500	011010250001540.TIF	bad	 abe i plerifque nofiris. i Erip. & contra remp. argiri hlMg.
+362d944c-adac-11e7-b26b-8630cca797eb	(210, 620, 1639, 664)	0296002200	029600220000480.TIF	bad	 d Selections from Jonfon-Mill-horfe, Lip-wife, Self-love, * Twy-light, there-
+362d9700-bdae-11e7-bb1f-0a9e45c799ec	(84, 517, 1030, 552)	0191400200	019140020006000.TIF	bad	 o e: hrnvr. ] -vi!it', sufauIY dlii, oufaujc ty,) Delicatref, beant.
+362d9712-ca85-11e7-b241-0a1780af9650	(180, 1124, 1350, 1198)	0608300203	060830020301330.TIF	bad	 vregst~a )xocv vuwCox arSo '0ro no-, dE'ogyvlw <^<y
+362d97a4-ad92-11e7-a1fd-ba9d9623cb95	(166, 214, 995, 251)	0263400900	026340090000550.TIF	bad	 Di cerrctoraraas, puas avulgas eker.it, fcaeduLm 'ires tuasi
+362d9936-ad09-11e7-92c9-6658d2e7a10d	(166, 1555, 935, 1588)	0110102500	011010250001540.TIF	bad	 &Nov. b emendatore, nisi quad hie e tcrgiri. Ereripere, &r ontra'r
+362d9aec-ad3d-11e7-989e-561593fd185e	(239, 987, 842, 1045)	0150300101	015030010101440.TIF	bad	 P. S. M. Opra aetfrh blis 7o. a M er. aptd idom'8 , 187.
+000049ac-b43f-11e7-80f4-821bc098331d	(67, 1252, 633, 1281)	0381300402	038130040201160.TIF	bad	 Andill'fite aliiuenm, tergo qui l ftfulik obcrn ?
+000049d8-b486-11e7-be75-b6ce560b292a	(63, 1332, 867, 1378)	0450800501	045080050102280.TIF	bad	 Haud mortem horrefcenr, pergentque in funera ixti;.
+00004c18-b683-11e7-a994-ae46d846ba23	(156, 1380, 1009, 1420)	0982900400	098290040000980.TIF	bad	 ;!nl froml tlhe Imeans, to the extremes, and the
+00004c24-c9a5-11e7-9808-0a8caf7809d4	(49, 968, 1004, 1011)	0436600600	043660060001840.TIF	bad	 a Ser. Sulpicio non idcirco obruetur, quad ab eodem b in hono-
+00004f60-acce-11e7-b8b2-5238b85565d1	(129, 1459, 1002, 1500)	0049500800	004950080001230.TIF	bad	 le d�ficit; le defici s'est accru & les financesfont rui-
+0000730c-b479-11e7-9b49-7e6134dda259	(179, 1553, 1120, 1598)	0439500301	043950030102170.TIF	bad	 fentoit avec plaifir rena�tre fon courage & fon a-
+000074c4-c9a5-11e7-9808-0a8caf7809d4	(97, 1282, 949, 1330)	0436600600	043660060001840.TIF	bad	 b mpetitione confulatas. c attl0jeit ifnriamam. d defendendis reis.
+00007634-b5d4-11e7-8d8a-4eb7a9957948	(76, 187, 828, 230)	0919900100	091990010001310.TIF	bad	 'erfratdd- that ie' ought ot- tb'pytrfue any
+00007794-b4ba-11e7-aefe-b62a809baafd	(113, 330, 801, 369)	0552400102	055240010202490.TIF	bad	 eum, Poefis Lyriez modut , qui armis fumme
+00007d78-b683-11e7-9eae-766ec2bf3134	(598, 1817, 1600, 1865)	0983300600	098330060000020.TIF	bad	 and1 not fir h.C ftla,(:, Whte'/ ver it's -ncr:t or (!.ten:i;t
+00007e94-bb61-11e7-82ee-0a9e45c799ec	(144, 317, 999, 348)	0110400102	011040010206490.TIF	bad	 ^'3i' rrri'*;r.'::. ' �t. sr d!:, s. m. arccciatura, s. f. rr /irr.
+00007f70-b486-11e7-be75-b6ce560b292a	(62, 1533, 779, 1576)	0450800501	045080050102280.TIF	bad	 Funera, deferti magnum setheris incrementum.
+00009d8e-bb61-11e7-82ee-0a9e45c799ec	(130, 341, 1281, 372)	0110400102	011040010206490.TIF	bad	 To T:'r.Li [-s a b-! or -!fcl cf A iic-womon, a craaericra. Title[nameofhnnour, given toper.
+00009f1e-b50d-11e7-80a0-764c0a3fb1d2	(82, 156, 343, 266)	0636301100	063630110001140.TIF	bad	 Achetons-en, Achetez-en, Qu'ils en achetent,
+0000a232-b4ba-11e7-aefe-b62a809baafd	(115, 501, 808, 546)	0552400102	055240010202490.TIF	bad	 ifti invidi, fotl vidorum, ut potee fiffili ir.?oni e
+0000a23a-b5d4-11e7-8d8a-4eb7a9957948	(83, 402, 831, 444)	0919900100	091990010001310.TIF	bad	 Value, o;r, it s tiot: in tht PIJwiv of, Ac-
+0000a2fc-bda5-11e7-bb1f-0a9e45c799ec	(124, 1299, 1048, 1331)	0176500200	017650020004230.TIF	bad	 I'NCIDENCE (S.) a mctingtogether; with perfn or thingby a wall, bank, &c,
+0000a3ec-c8e0-11e7-8125-0aa98677277a	(118, 819, 937, 861)	0019100107	001910010700090.TIF	bad	 -and f/cu a an ion-and uicrb an action, (and then he re-
+0000a3f4-c9a5-11e7-9808-0a8caf7809d4	(63, 1760, 524, 1792)	0436600600	043660060001840.TIF	bad	 perdendo illo Sulpicim medicatur, at amids
+361a9bca-acb8-11e7-86c1-8e0eccad500d	(39, 508, 871, 555)	0027300102	002730010201760.TIF	bad	 gate so deliberate a f.ldfihood !--He k no,'; the con-
+361a9c6c-b463-11e7-b40a-a27e09ac0700	(173, 1281, 937, 1333)	0430500503	043050050300230.TIF	bad	 palfion for hiim, I, fair-Nymphs' threw'my.-
+361a9cee-ad92-11e7-a1fd-ba9d9623cb95	(118, 1753, 896, 1831)	0263400900	026340090000340.TIF	bad	 : cnnot be used; as, I reddl Ilerdotn s mar' 'year; ago, ic; not
+361a9e0c-bdae-11e7-bb1f-0a9e45c799ec	(124, 1529, 1102, 1567)	0191400200	019140020005910.TIF	bad	 alit nmnser d'irn paii. cr.er. 0 To cur (or deive) oufIier, coI Operif e choje jfiqu'
+361aa112-ad3d-11e7-989e-561593fd185e	(260, 776, 861, 813)	0150300101	015030010101360.TIF	bad	 P. V. M. Opera -ua am Opfal/ci, r. eja: rir rcimram-
+361aa120-ca85-11e7-b241-0a1780af9650	(170, 1843, 1708, 1903)	0608300203	060830020301150.TIF	bad	 s Me SK X�rOYTOS4, U/SiVly eAvXI TO peaXBbv, ESEsIaI Eru{Ev Ve ;xE Ee6ePOv' Tg 4S
+361aa15c-be0a-11e7-bb1f-0a9e45c799ec	(478, 95, 1420, 138)	0296700102	029670010202290.TIF	bad	 fala, or fal; either (i) good, e (a2)l bi. . Fedlis, a, 'un. adj. [A *,.e fi/tcuo] EI-.
+361aa3b2-c8b6-11e7-9387-46407aefa844	(208, 1813, 1249, 1851)	0911800900	091180090000290.TIF	bad	 Rerum Sicularum Scriptores precipui ex recentioribus, &c.
+361aa450-ad74-11e7-8072-d6af0842ad95	(164, 879, 909, 920)	0199300500	019930050003300.TIF	bad	 don, wild iiverwort, Llyfiau'r cadwgan, sale-
+361aa4d4-bde9-11e7-bb1f-0a9e45c799ec	(562, 1042, 1081, 1077)	0239200302	023920030203280.TIF	bad	 SI'NUOUS. a. [firueux, Fr. fromfius, Lat.]
+361aa674-ac9a-11e7-b218-32ad471134e2	(84, 582, 793, 617)	0012800100	001280010001530.TIF	bad	 .--' Can itbe poflible ?---Heaven grant---Sure this is no
+361aa69a-b471-11e7-b06e-121737acbca9	(58, 1305, 869, 1340)	0430401300	043040130001010.TIF	bad	 dition qu'elles foient, d'en introduire d'impreffion �trangere
+361aa834-bdae-11e7-bb1f-0a9e45c799ec	(105, 1556, 1017, 1594)	0191400200	019140020005910.TIF	bad	 * CiRoned,A.:Ahebalallnd.il sgi the Ground, L.bourtr la terre. ce qu'elltombean trre.
+361aa9c2-ca85-11e7-b241-0a1780af9650	(265, 1895, 956, 1954)	0608300203	060830020301150.TIF	bad	 CfOt4oa PlvovU, tr EJaV, aEE rE5i opwyo C ?j
+00070c1e-b50d-11e7-97f0-ba35c8a7516f	(52, 662, 888, 706)	0681501200	068150120001180.TIF	good	 in whom it appears; Yet Justice and Liberality
+00070d9e-b568-11e7-9040-421a4a63a33c	(188, 1159, 1077, 1210)	0831400104	083140010401080.TIF	good	 who has only kept his first term and not
+00070e56-ad7b-11e7-83a1-1623dfa2d91f	(16, 355, 569, 390)	0226300101	022630010101110.TIF	good	 Sad chance of war! now destitute of aid,
+00070f20-acc5-11e7-86e3-2eaf81f4e0f7	(26, 1233, 906, 1282)	0050100107	005010010701160.TIF	good	 press a Princess who knows too well what {he has
+00070fec-b54a-11e7-be27-8a2110004707	(533, 1365, 2044, 1430)	0783200600	078320060003730.TIF	good	 bots and maw-worms; the lungs diseased, and
+0007102c-b4ab-11e7-8bef-1abd39b01dc8	(164, 302, 926, 351)	0496500703	049650070301730.TIF	good	 Deep, in surrounding woods, there shines a feat,
+000710b6-b5d4-11e7-8d8a-4eb7a9957948	(60, 723, 799, 767)	0919900100	091990010001380.TIF	good	 been paid to it by Men of the best Sense,
+000710cc-ac90-11e7-bb3f-f6cf404cb848	(117, 1700, 996, 1760)	0005000202	000500020201690.TIF	good	 assembling his troops: Nevertheless, these
+00071204-ada6-11e7-b17c-12d8ec916f22	(115, 1268, 983, 1325)	0259400902	025940090200440.TIF	good	 Chancellor, but absented himself entirely
+0007130c-b4a0-11e7-8511-e6cff5fe316c	(202, 996, 910, 1042)	0482100503	048210050301760.TIF	good	 which would be her unhappiness; and the pity
+000713d4-c977-11e7-b6e9-0a422494e514	(66, 1546, 771, 1587)	0314400104	031440010402740.TIF	good	 These observations, tho' purely grammatical, may be of
+00071426-c975-11e7-8e58-0aa0c17a5110	(136, 780, 714, 814)	0212101100	021210110005230.TIF	good	 And finding in their native Wit no Ease,
+000714f8-c984-11e7-b679-0aa0c17a5110	(66, 817, 984, 866)	0272600704	027260070401520.TIF	good	 0 my Father! said I, fee! pointing to the dear Baby
+00071502-b47b-11e7-aa87-b6ce560b292a	(89, 1470, 957, 1525)	0439400302	043940030204390.TIF	good	 or whether it is in any degree dependent
+00071558-b4de-11e7-8728-de1c5ecddd2b	(168, 1358, 1084, 1415)	0569101200	056910120000400.TIF	good	 of Honour; there is something in your Face
+000715c8-ad48-11e7-952b-4610deb541fc	(65, 448, 849, 486)	0157400110	015740011001400.TIF	good	 our Choice our own failing. But what said Sir Harry ?
+00071646-b50d-11e7-97f0-ba35c8a7516f	(52, 708, 887, 754)	0681501200	068150120001180.TIF	good	 i .in upon us most. There is nothing surely
+00071662-ac90-11e7-83c2-9e6f3b3d7d8a	(122, 1165, 1047, 1228)	0001500202	000150020201010.TIF	good	 just by me. I flaring full in their faces,
+00071676-b4ba-11e7-b582-960818c7550d	(46, 965, 815, 1013)	0559300102	055930010200860.TIF	good	 made public, he fancies, without doubt, that it
+000716d0-ac90-11e7-bb3f-f6cf404cb848	(210, 1759, 1000, 1860)	0005000202	000500020201690.TIF	good	 lovers so different in their figure, and so
+00071756-b50b-11e7-aec4-aa5314733147	(60, 1091, 761, 1139)	0633000605	063300060500170.TIF	good	 enemy a shot or two before my uncle Toby
+00071780-b568-11e7-8222-fada9e1850e9	(146, 117, 1049, 166)	0804000302	080400030200540.TIF	good	 some little Indisposition: That her }Honour
+000717a6-b4de-11e7-8ac0-6e7d22024e7f	(166, 565, 892, 606)	0569000100	056900010000170.TIF	good	 Span. And may I ask, who is the happy object of
+0007181a-b43d-11e7-bf8a-6e2a8cee1950	(45, 554, 868, 595)	0404603200	040460320000460.TIF	good	 unaccommodated man is no more but such a poor,
+00071886-b61f-11e7-8e46-b66dddec74a5	(233, 748, 1332, 796)	1105402600	110540260000030.TIF	good	" "" ion, but to fink and debase it by every Art, that"
+000718dc-b50b-11e7-86af-2edb2802f38d	(120, 902, 891, 946)	0675101500	067510150000280.TIF	good	 Sir Jo!. I swear, Gentlemen, you make me blush.
+000719e2-b568-11e7-9040-421a4a63a33c	(190, 1214, 1077, 1269)	0831400104	083140010401080.TIF	good	 completed his nineteenth year; so I opposed
+00071c5c-b5c3-11e7-b7ab-22fc83a9b1b2	(60, 1629, 1187, 1686)	0902000401	090200040102600.TIF	good	 What boots the regal circle on his head, 71
+00071c74-accd-11e7-9043-be37d61628b0	(73, 1107, 896, 1156)	0057900500	005790050000050.TIF	good	" "" proof both of the power which Nature and"
+00071ca4-c8e0-11e7-8125-0aa98677277a	(50, 334, 870, 378)	0019100107	001910010700160.TIF	good	 fealed, the characters we write in would be Hebrew to the
+00071d26-ada6-11e7-b17c-12d8ec916f22	(118, 1338, 986, 1393)	0259400902	025940090200440.TIF	good	 from her, without assuming any cause for
+00071d2e-b4ba-11e7-aefe-b62a809baafd	(71, 841, 786, 879)	0552400102	055240010202520.TIF	good	 Doth praise my Poem& when with me at home, 4f
+00071dd2-b55b-11e7-9f41-86ae7ac82394	(78, 305, 1024, 352)	0769100404	076910040403390.TIF	good	 ry. IT some one, that is overfond of Life, can
+00071dd8-b479-11e7-b667-a6781df46efa	(102, 644, 930, 693)	0444200300	044420030000650.TIF	good	 of good around him, without its coiling him any
+00071eb4-adc6-11e7-b2bc-f6f752d716ac	(176, 1019, 1022, 1065)	0295600110	029560011003690.TIF	good	 fits, a manifest corruption of Pail up and ease us.
+00071ec8-adc6-11e7-bed5-5a3dc6a511a7	(167, 218, 1014, 267)	0295600114	029560011401430.TIF	good	 one up. There are now not much above a dozen
+00071eec-b54a-11e7-be27-8a2110004707	(534, 1454, 2043, 1506)	0783200600	078320060003730.TIF	good	 more or less covered with tubercles filled with a
+00071efc-b4d1-11e7-addb-b2f610e45234	(236, 1760, 1016, 1799)	0559300105	055930010504100.TIF	good	 JULIAN, the emperor, his death said to be foretold by
+00072054-b4fa-11e7-b6b5-42de12ea68a8	(78, 1054, 891, 1100)	0605400700	060540070001540.TIF	good	 the whole Ode appears to me very methodical and well
+00072056-acbf-11e7-b054-36c3442de448	(59, 1136, 952, 1184)	0032900200	003290020002690.TIF	good	 immediately set out, and coming to her Bedside,
+00000046-aca1-11e7-b218-32ad471134e2	(81, 1108, 948, 1160)	0017000101	001700010101110.TIF	good	" up "",ith great reluctance in the middle. of his"
+000000f0-b5c0-11e7-8619-a2731ac939f3	(162, 353, 919, 393)	0881300105	088130010503220.TIF	good	 His word upon you. Since 1 had my office,
+0000017e-b43d-11e7-bf8a-6e2a8cee1950	(69, 1208, 751, 1251)	0404603200	040460320000440.TIF	good	 Too little care of this! Take physic, pomp
+000002ce-acd0-11e7-8584-ba320057d2a2	(68, 643, 924, 689)	0050100101	005010010103590.TIF	good	 VA LE RE. This Distemper will go off, take but some
+000002da-acbf-11e7-b054-36c3442de448	(83, 655, 977, 710)	0032900200	003290020002660.TIF	good	 availed him nothing, at last told her in plain
+00000364-b4a0-11e7-99ec-1228faa3f45b	(75, 520, 804, 565)	0482100502	048210050201510.TIF	good	" "" my knees; I drew in your breath, and that"
+0000038c-b54a-11e7-be27-8a2110004707	(296, 526, 1795, 593)	0783200600	078320060003690.TIF	good	 autumn, that species of fly which delights to
+00000398-c984-11e7-b679-0aa0c17a5110	(161, 444, 1081, 492)	0272600704	027260070401470.TIF	good	 do; and even set me down at your Gate, if it do
+000004ca-b50b-11e7-8554-c61263f67729	(38, 531, 746, 572)	0653100502	065310050200100.TIF	good	 here for George Tomkins, and as he is reckoned
+00000502-b46a-11e7-8ab0-7e6134dda259	(53, 376, 937, 433)	0424901900	042490190001200.TIF	good	 Long strove to bring the fierce Disease to cure
+0000056a-c98d-11e7-8664-0ad2516613d6	(37, 1024, 1204, 1071)	0374400102	037440010202870.TIF	good	 risen chiefly from two persons who were not much talked of; and those, fays
+00000588-b50b-11e7-aec4-aa5314733147	(73, 1048, 767, 1094)	0633000605	063300060500130.TIF	good	 sword and scabbard with a trembling hand
+0000063a-c8e0-11e7-8125-0aa98677277a	(57, 1454, 878, 1496)	0019100107	001910010700080.TIF	good	 pared to his poor dying friend, that he has recovered
+00000696-ad9f-11e7-b92a-56c06c6829bf	(137, 556, 1000, 608)	0263400200	026340020001550.TIF	good	 The Dutchess did not long continue in that
+000007b4-ad8a-11e7-889c-8630cca797eb	(37, 1416, 775, 1466)	0259200300	025920030003050.TIF	good	" ""Sad presage to vain boasters, now in bloom !"
+00000860-acc5-11e7-8c28-a2fb53a190a2	(57, 1087, 945, 1133)	0054600105	005460010501750.TIF	good	 peep out, for all the country is laid for me: but now
+00000906-acb0-11e7-a8a6-4ed32d8ea7ab	(191, 1078, 1007, 1123)	0022100103	002210010301470.TIF	good	 but here you are called White ; and half a
+000009c8-b59e-11e7-92d2-5ac0dbdb634b	(177, 1227, 1127, 1272)	0862600131	086260013101190.TIF	good	 ways made the best use of this advantage, or seem
+000009ce-c975-11e7-8e58-0aa0c17a5110	(44, 1213, 643, 1256)	0212101100	021210110005140.TIF	good	 In Whispers first their tender Voices try:
+00000ac8-b5d4-11e7-ba46-c24e6d42ace6	(237, 606, 1289, 648)	0920000300	092000030000480.TIF	good	 Mr. Ombre. What means that Crowd of little Animals,
+0007207c-ad48-11e7-952b-4610deb541fc	(68, 535, 850, 581)	0157400110	015740011001400.TIF	good	 heartily , Flew away with all the Raptures of a
+00072176-acdf-11e7-b302-d2386d5be85a	(102, 953, 757, 990)	0086800501	008680050100500.TIF	good	 Sweet as a candied cake from top to toe;
+000721e8-b479-11e7-ad3d-5a38c0527a33	(85, 733, 1016, 789)	0439500103	043950010301930.TIF	good	" ""seeming severity of her lot! let us fay"
+000721f6-b4ca-11e7-b785-526a8d9f5e3f	(107, 542, 882, 587)	0552301001	055230100102290.TIF	good	 means the gentlemen over their bottle, in o:e
+000722d8-ac90-11e7-bb3f-f6cf404cb848	(109, 98, 991, 164)	0005000202	000500020201700.TIF	good	 so like in their inclinations, often preferred
+00072314-b479-11e7-b086-8246ebecd231	(158, 1565, 921, 1621)	0444200202	044420020201270.TIF	good	 I have of marrying the first sultana in the
+0007232c-b54c-11e7-a6d7-0ed681489cce	(106, 1462, 1165, 1508)	0761900203	076190020303610.TIF	good	 ber, whether our trade with France was to be
+00072376-c975-11e7-8e58-0aa0c17a5110	(140, 890, 775, 929)	0212101100	021210110005230.TIF	good	 They are the false, deceitful Glasses, where
+0007237c-c960-11e7-8c8b-0a422494e514	(40, 1151, 779, 1192)	0110700600	011070060002630.TIF	good	 a great deal of loose Plate lay in the Window, and at the
+000723ce-b568-11e7-9040-421a4a63a33c	(189, 1270, 1077, 1323)	0831400104	083140010401080.TIF	good	 his whim manfully, which I think you will
+000724e6-b4a0-11e7-8511-e6cff5fe316c	(201, 1045, 909, 1088)	0482100503	048210050301760.TIF	good	 which (he inspired him with, served as fuel to
+0007252c-b4a0-11e7-8a75-1aa1c204e3d4	(7, 1111, 795, 1149)	0482000201	048200020100470.TIF	good	 if he had not been incited by motives more powerful
+0007254a-b41e-11e7-9867-1a0828d6a924	(112, 1052, 915, 1084)	0381000500	038100050003180.TIF	good	 and roared out Murder! Murder! with an audible
+00073c7a-ada6-11e7-b17c-12d8ec916f22	(116, 1478, 988, 1533)	0259400902	025940090200440.TIF	good	 What a stroke to Ann ! surprise, and the
+00074af8-adb5-11e7-b374-be7e822b398b	(68, 449, 1022, 504)	0281900700	028190070000300.TIF	good	 and publicly read and preached in their churches;
+00074f94-adb5-11e7-b374-be7e822b398b	(69, 501, 1026, 555)	0281900700	028190070000300.TIF	good	 that they and their fathers before them had always
+00074df8-adc6-11e7-bed5-5a3dc6a511a7	(168, 497, 1015, 544)	0295600114	029560011401430.TIF	good	 which I take for no ill symptom; and it is certain,
+00073192-adc6-11e7-bed5-5a3dc6a511a7	(169, 330, 1015, 378)	0295600114	029560011401430.TIF	good	 according to our computation, may be done in
+0007294a-adc6-11e7-b2bc-f6f752d716ac	(227, 1071, 1025, 1121)	0295600110	029560011003690.TIF	good	 Having mentioned so many Grecians to prove
+00073aac-adc6-11e7-b2bc-f6f752d716ac	(187, 1175, 1027, 1226)	0295600110	029560011003690.TIF	good	 producing an equal number of Romans, as I
+000753ee-b41e-11e7-9867-1a0828d6a924	(151, 1220, 916, 1264)	0381000500	038100050003180.TIF	good	 His Outcries had by this Time brought a great
+00074868-b41e-11e7-9867-1a0828d6a924	(114, 1180, 772, 1221)	0381000500	038100050003180.TIF	good	 facion for the Crimes he had been guilty of.
+00072ffe-b41e-11e7-9867-1a0828d6a924	(112, 1094, 916, 1132)	0381000500	038100050003180.TIF	good	 Voice, and in the fame Infant begged his Life in the
+00072d6c-b43f-11e7-953f-a6980ac38ed0	(195, 1460, 836, 1499)	0405400300	040540030000520.TIF	good	 Thou halt like well that Hand, that Eye)
+00075486-b43f-11e7-953f-a6980ac38ed0	(3, 197, 646, 239)	0405400300	040540030000530.TIF	good	 And with soft Thoughts some time beguile
+00074bd6-b443-11e7-91db-7240e0e3d5db	(40, 333, 732, 385)	0391400500	039140050000220.TIF	good	 And sway thy sceptre in the heart of man.
+00073bd2-b443-11e7-91db-7240e0e3d5db	(42, 273, 812, 323)	0391400500	039140050000220.TIF	good	 Shines forth in all; complete the glorious plan,
+00072c50-b443-11e7-91db-7240e0e3d5db	(37, 213, 816, 265)	0391400500	039140050000220.TIF	good	 And air, and ikies; whose beauty, order, ease,
+00073174-b43d-11e7-9678-de86387ff59a	(111, 1106, 780, 1168)	0376800105	037680010501180.TIF	good	 story, as absolutely to forget the heroine
+000726e8-b43d-11e7-8cee-86739588cc15	(75, 521, 910, 580)	0381100602	038110060201230.TIF	good	 laid on his bed, his head was bound up, and
+000750d2-b479-11e7-8b0a-c61d726de6ba	(152, 790, 1026, 837)	0457400101	045740010100210.TIF	good	" "" not French."" This extraordinary Romance,"
+000730e8-b479-11e7-b667-a6781df46efa	(101, 702, 897, 749)	0444200300	044420030000650.TIF	good	 thing. But the physic, how do you get that ?
+00073386-b479-11e7-ad3d-5a38c0527a33	(81, 862, 1015, 916)	0439500103	043950010301930.TIF	good	" "" overlooked by men, who have pitched"
+000747d6-b479-11e7-ad3d-5a38c0527a33	(80, 1055, 1012, 1113)	0439500103	043950010301930.TIF	good	 'e with partners far less deserving: but be.
+0007411e-b479-11e7-ad3d-5a38c0527a33	(81, 993, 1013, 1048)	0439500103	043950010301930.TIF	good	" ""have shared their wealth and splendor"
+000750b4-b479-11e7-ad3d-5a38c0527a33	(80, 1122, 1012, 1179)	0439500103	043950010301930.TIF	good	" "" fore you estimate their supposed felicity,"
+00074568-b47b-11e7-aa87-b6ce560b292a	(92, 1739, 961, 1797)	0439400302	043940030204390.TIF	good	 of words, not of things; and words beget
+00073dca-b47b-11e7-aa87-b6ce560b292a	(90, 1672, 959, 1727)	0439400302	043940030204390.TIF	good	 against such a system: it plainly consists
+00072ede-b47b-11e7-aa87-b6ce560b292a	(89, 1603, 961, 1661)	0439400302	043940030204390.TIF	good	 would, however, be very foolish to argue
+000733ac-b4ad-11e7-a96b-b66250f1591c	(137, 149, 888, 199)	0509000201	050900020100150.TIF	good	 Love, by a perverse beautiful Widow of the
+000749a0-b4ad-11e7-a96b-b66250f1591c	(140, 243, 891, 293)	0509000201	050900020100150.TIF	good	 ment, Sir ROG E R was what you call a fine
+00074ae8-b4a0-11e7-99ec-1228faa3f45b	(175, 1551, 905, 1598)	0482100502	048210050201520.TIF	good	" ""him, and beg him to assist us in repairing the"
+0007538e-b4ab-11e7-8bef-1abd39b01dc8	(122, 1286, 923, 1337)	0496500703	049650070301730.TIF	good	 At once your wife, your partner, and your friend,
+00073f52-b4ab-11e7-8bef-1abd39b01dc8	(120, 1008, 904, 1057)	0496500703	049650070301730.TIF	good	 You know to judge, and dare to choose the best.
+00073b92-b4ab-11e7-8bef-1abd39b01dc8	(124, 947, 752, 994)	0496500703	049650070301730.TIF	good	 Sublimely wife, and to perfection blest,
+00074d54-b4a0-11e7-8a75-1aa1c204e3d4	(8, 1191, 795, 1224)	0482000201	048200020100470.TIF	good	 had not views conformable to his vicious inclinations:
+00074542-b4ba-11e7-b582-960818c7550d	(45, 1234, 812, 1285)	0559300102	055930010200860.TIF	good	 in which he has laid open all the dark designs,
+00072c60-b4ba-11e7-b582-960818c7550d	(47, 1072, 815, 1120)	0559300102	055930010200860.TIF	good	 that every foul, who can read, is let into the
+000731c6-b4d1-11e7-9155-6e7d22024e7f	(249, 1778, 1043, 1829)	0559300103	055930010303690.TIF	good	 fated Lamp, like some malignant Planet, spreads
+00072af2-b4ca-11e7-b785-526a8d9f5e3f	(107, 584, 866, 632)	0552301001	055230100102290.TIF	good	 room, may uninterruptedly harangue on h 'n! i'
+00073088-b4de-11e7-8ac0-6e7d22024e7f	(129, 688, 887, 728)	0569000100	056900010000170.TIF	good	 much the image of yourself, that I have doted on
+00072552-b4de-11e7-8728-de1c5ecddd2b	(169, 1415, 1087, 1473)	0569101200	056910120000400.TIF	good	 that is generous, open, and masculine; you
+0007565a-b4fa-11e7-8033-526a8d9f5e3f	(198, 681, 930, 724)	0633400300	063340030001940.TIF	good	 back to past ti. s, or consult the history of his
+00073a44-b4fa-11e7-b6b5-42de12ea68a8	(81, 1165, 891, 1210)	0605400700	060540070001540.TIF	good	 Conjecture, I submit it as such to the Judgment of the
+00072c9e-b50d-11e7-97f0-ba35c8a7516f	(49, 801, 890, 849)	0681501200	068150120001180.TIF	good	 ty or Likeness of good Manners. For thote that
+000737c0-b50d-11e7-97f0-ba35c8a7516f	(51, 846, 889, 892)	0681501200	068150120001180.TIF	good	 have the fame Desires, and the fame Will, grow
+00074328-b50d-11e7-97f0-ba35c8a7516f	(58, 894, 891, 935)	0681501200	068150120001180.TIF	good	 .t last to be as much delighted with one another,
+00072994-b50b-11e7-aec4-aa5314733147	(61, 1166, 761, 1303)	0633000605	063300060500170.TIF	good	 came. He had drawn the fix field pieces for this
+00073f60-b50b-11e7-aec4-aa5314733147	(61, 1321, 761, 1366)	0633000605	063300060500170.TIF	good	 end, all close up together in front of my
+0007333a-b50b-11e7-86af-2edb2802f38d	(121, 952, 933, 996)	0675101500	067510150000280.TIF	good	 Cour. He deserves a Statue in Gold, at the charge of
+000749b2-b54a-11e7-be27-8a2110004707	(531, 1733, 2037, 1801)	0783200600	078320060003730.TIF	good	 foetid mucus; the frontal and maxillary sinuses
+00075358-b54a-11e7-be27-8a2110004707	(530, 1826, 2035, 1891)	0783200600	078320060003730.TIF	good	 loaded with the same purulent matter. And
+00073968-b54a-11e7-be27-8a2110004707	(529, 1641, 2035, 1708)	0783200600	078320060003730.TIF	good	 brane relaxed, spongy, and covered with yellow,
+00074be0-b55b-11e7-9a9b-fe1aeaf70c37	(52, 653, 891, 692)	0811000601	081100060101950.TIF	good	 of law, which yet the judge is not bound to pay
+00072b92-b55b-11e7-9f41-86ae7ac82394	(79, 394, 1024, 444)	0769100404	076910040403390.TIF	good	 vering himself by some pleasurable Diversion, he
+00072b4e-b568-11e7-8222-fada9e1850e9	(145, 212, 1048, 255)	0804000302	080400030200540.TIF	good	 ness of her Constitution: That Change of
+00074a16-b568-11e7-8222-fada9e1850e9	(146, 352, 1040, 401)	0804000302	080400030200540.TIF	good	 liver'd up to a Man whom she had not had
+0007504c-b568-11e7-9040-421a4a63a33c	(195, 1500, 1071, 1550)	0831400104	083140010401080.TIF	good	 he fairly offered to be ruled by your advice
+00074534-b568-11e7-9040-421a4a63a33c	(194, 1442, 1072, 1496)	0831400104	083140010401080.TIF	good	 quoted it against him: To do him justice
+00072cac-b568-11e7-b2bc-0a0cba21010f	(131, 882, 1085, 924)	0783800400	078380040001190.TIF	good	 virtue, though ever so severe, seemed practicable with
+00073904-b568-11e7-b2bc-0a0cba21010f	(131, 1006, 1084, 1046)	0783800400	078380040001190.TIF	good	 me in a very ridiculous light to myself. The vanity
+0007439a-b568-11e7-b2bc-0a0cba21010f	(131, 1087, 1085, 1128)	0783800400	078380040001190.TIF	good	 hopes of rivalling the happy man; to whom, in the
+00073f3a-b568-11e7-b2bc-0a0cba21010f	(130, 1047, 1086, 1086)	0783800400	078380040001190.TIF	good	 appeared unpardonable, that inspired me with the
+000749bc-b568-11e7-b2bc-0a0cba21010f	(133, 1126, 1085, 1168)	0783800400	078380040001190.TIF	good	 fight of Heaven, with her vows, she had sincerely
+00074a56-b582-11e7-a2a9-b69f3aceeb2b	(28, 1005, 744, 1048)	0843000100	084300010001490.TIF	good	 Repeated Slights I have too tamely bore,
+000740a6-b582-11e7-a2a9-b69f3aceeb2b	(28, 956, 846, 1002)	0843000100	084300010001490.TIF	good	 Are thus my Vows and gen'rous Flame repaid .
+000744b6-b582-11e7-9195-e272cbf7e7ad	(29, 983, 877, 1031)	0844200700	084420070000180.TIF	good	 they are exposed to every kind of danger.
+00074fec-b582-11e7-9195-e272cbf7e7ad	(29, 1038, 887, 1084)	0844200700	084420070000180.TIF	good	 They are hurried away by the violence of
+0007554a-b58d-11e7-ab16-068ebb8db082	(64, 640, 947, 675)	0844200500	084420050001040.TIF	good	 And then once more tow'rds Heaven his Eyes he sent,
+00073842-b59e-11e7-92d2-5ac0dbdb634b	(222, 1423, 1055, 1466)	0862600131	086260013101230.TIF	good	 And saw the power whom gods and men adore,
+00072db6-b59e-11e7-92d2-5ac0dbdb634b	(175, 1375, 1111, 1416)	0862600131	086260013101230.TIF	good	 Britannia heard the notes diffusing wide, 1i
+00073ab6-b5c3-11e7-ba48-2aa05ab3470e	(61, 556, 1234, 623)	0902700107	090270010700770.TIF	good	 The neighbours round would cry out shame.
+00073cf0-b5c3-11e7-b7ab-22fc83a9b1b2	(109, 1927, 1192, 1982)	0902000401	090200040102600.TIF	good	 The Baron now his Diamonds pours apace; 75
+0007286e-b5c3-11e7-b7ab-22fc83a9b1b2	(59, 1702, 1022, 1760)	0902000401	090200040102600.TIF	good	 His giant limbs, in state unwieldy spread;
+00072d3c-b5c3-11e7-b7ab-22fc83a9b1b2	(58, 1778, 1084, 1833)	0902000401	090200040102600.TIF	good	 That long behind he trails his pompous robe,
+00074042-b5f5-11e7-a36e-d2b0f3d187e9	(81, 616, 961, 652)	1030702000	103070200000820.TIF	good	" of an ancient writer, "" brought man to such a. degree of h.u"
+000726aa-b61f-11e7-8e46-b66dddec74a5	(229, 802, 1331, 848)	1105402600	110540260000030.TIF	good	" "" hath a Tendency to excite the Mirth and provoke"
+00073ad4-ac90-11e7-bb3f-f6cf404cb848	(106, 270, 993, 322)	0005000202	000500020201700.TIF	good	 which had introduced into their armies what
+00072ac6-ac90-11e7-bb3f-f6cf404cb848	(109, 157, 992, 212)	0005000202	000500020201700.TIF	good	 barbarous pleasures to the tenderness of a
+000743c6-ac90-11e7-9408-2eaf81f4e0f7	(84, 436, 802, 468)	0005300201	000530020100120.TIF	good	 now and then cried out fle would founder.. It was my
+00072ed6-ac90-11e7-83c2-9e6f3b3d7d8a	(132, 1286, 1049, 1349)	0001500202	000150020201010.TIF	good	 (fays I to myself,) I'll bring you down a
+00073514-aca1-11e7-a226-3628c998d552	(181, 1930, 1138, 1987)	0019600300	001960030001020.TIF	good	 in persuading the Prince ; and as he knew the
+00072b8c-aca1-11e7-a226-3628c998d552	(182, 1815, 1138, 1874)	0019600300	001960030001020.TIF	good	 not hear this News without being extremely
+00074c5c-aca1-11e7-a226-3628c998d552	(51, 232, 998, 290)	0019600300	001960030001030.TIF	good	 a Happiness will it be, cry'd he, if he yields
+00073adc-acbf-11e7-a5bc-a2fb53a190a2	(146, 394, 956, 443)	0036400201	003640020100260.TIF	good	 Where the good-natured reader will fee something,
+00074ff4-acbf-11e7-b054-36c3442de448	(63, 1334, 818, 1383)	0032900200	003290020002690.TIF	good	 t6 her Lips, in a feeble Voice said to him;
+0007385c-acbf-11e7-b054-36c3442de448	(61, 1236, 958, 1285)	0032900200	003290020002690.TIF	good	 neis, Shame and Penitence, and taking Hold of
+00074392-acbf-11e7-b054-36c3442de448	(61, 1286, 954, 1335)	0032900200	003290020002690.TIF	good	 his Hand, which flue had barely Strength to bring
+00074762-accd-11e7-9043-be37d61628b0	(73, 1465, 859, 1515)	0057900500	005790050000050.TIF	good	" ""managed, is capable of being enlivened."""
+0007406e-accd-11e7-9043-be37d61628b0	(71, 1392, 894, 1444)	0057900500	005790050000050.TIF	good	" "" which Pastoral Poetry, when properly"
+0007262e-accd-11e7-9043-be37d61628b0	(74, 1176, 896, 1226)	0057900500	005790050000050.TIF	good	" "" Simplicity possess to reach the heart in"
+00072ef8-accd-11e7-9043-be37d61628b0	(72, 1249, 901, 1302)	0057900500	005790050000050.TIF	good	" "" every fort of writing; and of the variety of"
+00072c86-acce-11e7-b1a8-66679d06f5ef	(205, 1172, 962, 1217)	0058000103	005800010300200.TIF	good	 Ob. That very time I saw (but thou could'st not)
+00074b6c-acce-11e7-b1a8-66679d06f5ef	(165, 1214, 865, 1258)	0058000103	005800010300200.TIF	good	 Flying between the cold moon and the earth,
+00072d4c-acdf-11e7-844e-3a3e05aed2f6	(45, 689, 841, 732)	0086900202	008690020201820.TIF	good	 And by passionate silence I make my love known:
+00074340-acdf-11e7-844e-3a3e05aed2f6	(45, 778, 761, 822)	0086900202	008690020201820.TIF	good	 By some willing mistake to discover her love;
+0007563c-acdf-11e7-844e-3a3e05aed2f6	(44, 865, 889, 908)	0086900202	008690020201820.TIF	good	 And our eyes tell each other what neither dare name!
+00075024-acdf-11e7-9f23-ba320057d2a2	(113, 990, 857, 1032)	0086900103	008690010301720.TIF	good	 'Twas then soft slumber fled my troubled brain:
+0007432c-acdf-11e7-9f23-ba320057d2a2	(26, 930, 808, 975)	0086900103	008690010301720.TIF	good	 43o They roast the fragments, and prepare the feat.
+0007321a-acdf-11e7-9f23-ba320057d2a2	(74, 806, 744, 850)	0086900103	008690010301720.TIF	good	 And pour'd prophanely as the victim burns.
+000735ee-acee-11e7-89df-a6ceb86e522f	(65, 367, 855, 411)	0089800501	008980050100780.TIF	good	 action, he had no more to fay, than that he had only
+00072cda-c8e0-11e7-8125-0aa98677277a	(52, 414, 870, 461)	0019100107	001910010700160.TIF	good	 of it upon demand; for I intend to keep it by me, as a
+00073d62-c960-11e7-8c8b-0a422494e514	(44, 1304, 783, 1345)	0110700600	011070060002630.TIF	good	 on a piece of Plate, and might have done it, and carried
+00074dde-c960-11e7-8c8b-0a422494e514	(46, 1383, 784, 1421)	0110700600	011070060002630.TIF	good	 the Shop had taken of it, but an officious Fellow in a
+00074c14-ad48-11e7-81fb-aa44c6677d74	(73, 501, 953, 542)	0149301500	014930150001280.TIF	good	 nothing; only in the world I fill up a place, which may be
+0007295a-ad48-11e7-81fb-aa44c6677d74	(73, 420, 952, 461)	0149301500	014930150001280.TIF	good	 ing to be so: I shall do my friends no wrong, for I have
+00073b5c-ad48-11e7-81fb-aa44c6677d74	(73, 460, 953, 500)	0149301500	014930150001280.TIF	good	 none to lament me; the world no injury, for in it I have
+00073cda-c975-11e7-8e58-0aa0c17a5110	(138, 1075, 841, 1112)	0212101100	021210110005230.TIF	good	 Where Fops have daily Entrance: Make a Priest,
+0007275e-c975-11e7-8e58-0aa0c17a5110	(138, 927, 847, 965)	0212101100	021210110005230.TIF	good	 We gaze, and dress our selves to all the Shapes .
+00000ada-b4fa-11e7-ac14-ea8f739403f5	(177, 1292, 988, 1342)	0618701900	061870190000510.TIF	good	 Note, But we may reckon these words only
+00000bc2-acbf-11e7-b054-36c3442de448	(84, 703, 976, 755)	0032900200	003290020002660.TIF	good	 Terms, that if these were her Sentiments, he
+00000c34-c8e0-11e7-8125-0aa98677277a	(58, 1495, 879, 1536)	0019100107	001910010700080.TIF	good	 from his illness, and has till an opportunity lent him,
+00000c82-b4ba-11e7-b582-960818c7550d	(80, 1141, 852, 1193)	0559300102	055930010200820.TIF	good	 good men among them, as the Archdeacon fays,
+00000d00-b4dc-11e7-98b9-a65665d18f37	(78, 1243, 956, 1293)	0605102200	060510220000690.TIF	good	 neither I can cure, nor will the Criticks forgive,
+00000e28-adc4-11e7-b930-ee72b5a4faa0	(204, 591, 795, 624)	0300200200	030020020000240.TIF	good	 Advise a wretch like me to know repose ?
+00000f7a-ad7b-11e7-83a1-1623dfa2d91f	(99, 812, 671, 847)	0226300101	022630010101090.TIF	good	 Some thrid the mazy ringlets of her hair;
+00000fa4-ad74-11e7-a74b-4affa0f6fd55	(129, 253, 936, 302)	0213900302	021390030203280.TIF	good	 and his head was full of the Grecian history
+000010c0-b54a-11e7-be27-8a2110004707	(296, 619, 1790, 686)	0783200600	078320060003690.TIF	good	 lay its eggs upon unsound or corrupted flesh;
+00001126-b683-11e7-a994-ae46d846ba23	(153, 733, 1015, 777)	0982900400	098290040000980.TIF	good	 1proceed to sentences, words, syllables, and.
+00001178-ad8a-11e7-889c-8630cca797eb	(38, 1471, 597, 1520)	0259200300	025920030003050.TIF	good	" ""By the long lift of swift mortality,"
+00001194-c984-11e7-b679-0aa0c17a5110	(160, 493, 1082, 543)	0272600704	027260070401470.TIF	good	 not; but he vows, that he will not alight at your
+000011c8-c8d8-11e7-9240-0aa98677277a	(148, 407, 1129, 483)	0000400202	000040020202900.TIF	good	 at this time, bu; I know a Man who will lend it
+00001260-c8e0-11e7-8125-0aa98677277a	(58, 1536, 881, 1578)	0019100107	001910010700080.TIF	good	 for which I would give a thousand worlds, had I them to
+0000126c-b5ce-11e7-9e6f-a222e0e7626d	(234, 1618, 1045, 1658)	0912100102	091210010201200.TIF	good	 eye in the forehead of one of these Cyclops, might
+0000127c-b5f5-11e7-87cf-c29579def9fa	(268, 418, 1284, 468)	1018100300	101810030000150.TIF	good	 right but irregular and inconstant, if the other
+000012d2-b4dc-11e7-98b9-a65665d18f37	(78, 1294, 959, 1337)	0605102200	060510220000690.TIF	good	 and such are the Non-observance of Time,
+00001358-b43d-11e7-bf8a-6e2a8cee1950	(68, 1250, 711, 1290)	0404603200	040460320000440.TIF	good	 Expose thyself to feel what wretches feel,
+0000139c-acbf-11e7-b054-36c3442de448	(82, 754, 976, 806)	0032900200	003290020002660.TIF	good	 hoped she would pardon him, if, to provide for
+0000156c-acc5-11e7-86e3-2eaf81f4e0f7	(89, 1381, 984, 1427)	0050100107	005010010701090.TIF	good	 cotes & de le presser fur la cause de cette profonde
+00001584-b41e-11e7-a620-fedc0d2a5942	(67, 348, 678, 391)	0363100703	036310070303110.TIF	good	 Resolve it, down the dew, or manna fleet:
